@@ -1,0 +1,17 @@
+C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api con DLL\ApiDLLMiniCRUD\ApiDLLMiniCRUD\bin\Debug\netcoreapp2.1\ApiDLLMiniCRUD.deps.json
+C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api con DLL\ApiDLLMiniCRUD\ApiDLLMiniCRUD\bin\Debug\netcoreapp2.1\ApiDLLMiniCRUD.runtimeconfig.json
+C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api con DLL\ApiDLLMiniCRUD\ApiDLLMiniCRUD\bin\Debug\netcoreapp2.1\ApiDLLMiniCRUD.runtimeconfig.dev.json
+C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api con DLL\ApiDLLMiniCRUD\ApiDLLMiniCRUD\bin\Debug\netcoreapp2.1\ApiDLLMiniCRUD.dll
+C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api con DLL\ApiDLLMiniCRUD\ApiDLLMiniCRUD\bin\Debug\netcoreapp2.1\ApiDLLMiniCRUD.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api con DLL\ApiDLLMiniCRUD\ApiDLLMiniCRUD\bin\Debug\netcoreapp2.1\LibClasesDLL.dll
+C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api con DLL\ApiDLLMiniCRUD\ApiDLLMiniCRUD\bin\Debug\netcoreapp2.1\LibClasesDLL.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api con DLL\ApiDLLMiniCRUD\ApiDLLMiniCRUD\obj\Debug\netcoreapp2.1\ApiDLLMiniCRUD.csprojAssemblyReference.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api con DLL\ApiDLLMiniCRUD\ApiDLLMiniCRUD\obj\Debug\netcoreapp2.1\ApiDLLMiniCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api con DLL\ApiDLLMiniCRUD\ApiDLLMiniCRUD\obj\Debug\netcoreapp2.1\ApiDLLMiniCRUD.RazorAssemblyInfo.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api con DLL\ApiDLLMiniCRUD\ApiDLLMiniCRUD\obj\Debug\netcoreapp2.1\ApiDLLMiniCRUD.RazorAssemblyInfo.cs
+C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api con DLL\ApiDLLMiniCRUD\ApiDLLMiniCRUD\obj\Debug\netcoreapp2.1\ApiDLLMiniCRUD.AssemblyInfoInputs.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api con DLL\ApiDLLMiniCRUD\ApiDLLMiniCRUD\obj\Debug\netcoreapp2.1\ApiDLLMiniCRUD.AssemblyInfo.cs
+C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api con DLL\ApiDLLMiniCRUD\ApiDLLMiniCRUD\obj\Debug\netcoreapp2.1\ApiDLLMiniCRUD.RazorTargetAssemblyInfo.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api con DLL\ApiDLLMiniCRUD\ApiDLLMiniCRUD\obj\Debug\netcoreapp2.1\ApiDLLMiniCRUD.csproj.CopyComplete
+C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api con DLL\ApiDLLMiniCRUD\ApiDLLMiniCRUD\obj\Debug\netcoreapp2.1\ApiDLLMiniCRUD.dll
+C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api con DLL\ApiDLLMiniCRUD\ApiDLLMiniCRUD\obj\Debug\netcoreapp2.1\ApiDLLMiniCRUD.pdb

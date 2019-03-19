@@ -1,0 +1,43 @@
+﻿@page
+@model MiniCrudRazor.Pages.Cons_PersonasModel
+@{
+    ViewData["Title"] = "Consulta Personas";
+}
+<div>
+    <h4>Consulta Personas</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        @for (int i = 0; i < Model.listaPersonas.Count; i++)
+        {
+            <dt>
+                @Html.DisplayNameFor(model => model.listaPersonas[i].Cedula)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.listaPersonas[i].Cedula)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.listaPersonas[i].Nombre)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.listaPersonas[i].Nombre)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.listaPersonas[i].Telefono)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.listaPersonas[i].Telefono)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.listaPersonas[i].Direccion)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.listaPersonas[i].Direccion)
+            </dd>
+            <hr />
+        }
+    </dl>
+</div>
+<div>
+    <a asp-page="./Ins_Personas" asp-route-id="@Model.listaPersonas[0].Cedula">Edit</a> |
+   <a asp-page="./Cons_Personas">Back to List</a>
+</div>

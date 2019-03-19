@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{AA10846F-DB0D-4719-A626-9BDADE33486E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LibClasesDLL/ClasePersonaDB.cs">
+    <Files>
+      <File FileName="LibClasesDLL/ClasePersonaDB.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ApiDLLMiniCRUD PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
