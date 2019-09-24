@@ -1,0 +1,27 @@
+C:\Users\Santiago\Dropbox\DeveLearning\C# Básico\3) Tipos de Datos\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\Santiago\Dropbox\DeveLearning\C# Básico\3) Tipos de Datos\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+C:\Users\Santiago\Dropbox\DeveLearning\C# Básico\3) Tipos de Datos\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+C:\Users\Santiago\Dropbox\DeveLearning\C# Básico\3) Tipos de Datos\Arreglos\Arreglos\obj\Debug\Arreglos.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\Dropbox\DeveLearning\C# Básico\3) Tipos de Datos\Arreglos\Arreglos\obj\Debug\Arreglos.Arreglos_Frm.resources
+C:\Users\Santiago\Dropbox\DeveLearning\C# Básico\3) Tipos de Datos\Arreglos\Arreglos\obj\Debug\Arreglos.Properties.Resources.resources
+C:\Users\Santiago\Dropbox\DeveLearning\C# Básico\3) Tipos de Datos\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.GenerateResource.Cache
+C:\Users\Santiago\Dropbox\DeveLearning\C# Básico\3) Tipos de Datos\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\Santiago\Dropbox\DeveLearning\C# Básico\3) Tipos de Datos\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
+C:\Users\Santiago\Dropbox\DeveLearning\C# Básico\4) Ciclos\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\Santiago\Dropbox\DeveLearning\C# Básico\4) Ciclos\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\Santiago\Dropbox\DeveLearning\C# Básico\4) Ciclos\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
+C:\Users\srodriguez\Dropbox\DeveLearning\Programación Básica\4) Ciclos\Ciclos C#\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\srodriguez\Dropbox\DeveLearning\Programación Básica\4) Ciclos\Ciclos C#\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\srodriguez\Dropbox\DeveLearning\Programación Básica\4) Ciclos\Ciclos C#\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
+C:\Users\srodriguez\Dropbox\DeveLearning\Programación Básica\4) Ciclos\Ciclos C#\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+C:\Users\srodriguez\Dropbox\DeveLearning\Programación Básica\4) Ciclos\Ciclos C#\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+C:\Users\srodriguez\Dropbox\DeveLearning\Programación Básica\4) Ciclos\Ciclos C#\Arreglos\Arreglos\obj\Debug\Arreglos.csprojResolveAssemblyReference.cache
+C:\Users\srodriguez\Dropbox\DeveLearning\Programación Básica\4) Ciclos\Ciclos C#\Arreglos\Arreglos\obj\Debug\Arreglos.Arreglos_Frm.resources
+C:\Users\srodriguez\Dropbox\DeveLearning\Programación Básica\4) Ciclos\Ciclos C#\Arreglos\Arreglos\obj\Debug\Arreglos.Properties.Resources.resources
+C:\Users\srodriguez\Dropbox\DeveLearning\Programación Básica\4) Ciclos\Ciclos C#\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.GenerateResource.Cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\4) Ciclos & Arreglos  C#\Ciclos C#\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\4) Ciclos & Arreglos  C#\Ciclos C#\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\4) Ciclos & Arreglos  C#\Ciclos C#\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\4) Ciclos & Arreglos  C#\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\4) Ciclos & Arreglos  C#\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\4) Ciclos & Arreglos  C#\Arreglos\Arreglos\obj\Debug\Arreglos.pdb

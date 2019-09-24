@@ -1,0 +1,13 @@
+C:/Users/Santiago/OneDrive/DeveLearning/C#/10) Linq/3-ejemplos-Linq/3-ejemplos-Linq/bin/Debug/3-ejemplos-Linq.exe.config
+C:/Users/Santiago/OneDrive/DeveLearning/C#/10) Linq/3-ejemplos-Linq/3-ejemplos-Linq/bin/Debug/3-ejemplos-Linq.exe
+C:/Users/Santiago/OneDrive/DeveLearning/C#/10) Linq/3-ejemplos-Linq/3-ejemplos-Linq/bin/Debug/3-ejemplos-Linq.pdb
+C:/Users/Santiago/OneDrive/DeveLearning/C#/10) Linq/3-ejemplos-Linq/3-ejemplos-Linq/obj/Debug/3-ejemplos-Linq.csproj.CoreCompileInputs.cache
+C:/Users/Santiago/OneDrive/DeveLearning/C#/10) Linq/3-ejemplos-Linq/3-ejemplos-Linq/obj/Debug/3-ejemplos-Linq.exe
+C:/Users/Santiago/OneDrive/DeveLearning/C#/10) Linq/3-ejemplos-Linq/3-ejemplos-Linq/obj/Debug/3-ejemplos-Linq.pdb
+/Users/santiagoRP1979/OneDrive/DeveLearning/C#/10) Linq/3-ejemplos-Linq/3-ejemplos-Linq/bin/Debug/3-ejemplos-Linq.exe.config
+/Users/santiagoRP1979/OneDrive/DeveLearning/C#/10) Linq/3-ejemplos-Linq/3-ejemplos-Linq/bin/Debug/3-ejemplos-Linq.exe
+/Users/santiagoRP1979/OneDrive/DeveLearning/C#/10) Linq/3-ejemplos-Linq/3-ejemplos-Linq/bin/Debug/3-ejemplos-Linq.pdb
+/Users/santiagoRP1979/OneDrive/DeveLearning/C#/10) Linq/3-ejemplos-Linq/3-ejemplos-Linq/obj/Debug/3-ejemplos-Linq.csprojAssemblyReference.cache
+/Users/santiagoRP1979/OneDrive/DeveLearning/C#/10) Linq/3-ejemplos-Linq/3-ejemplos-Linq/obj/Debug/3-ejemplos-Linq.csproj.CoreCompileInputs.cache
+/Users/santiagoRP1979/OneDrive/DeveLearning/C#/10) Linq/3-ejemplos-Linq/3-ejemplos-Linq/obj/Debug/3-ejemplos-Linq.exe
+/Users/santiagoRP1979/OneDrive/DeveLearning/C#/10) Linq/3-ejemplos-Linq/3-ejemplos-Linq/obj/Debug/3-ejemplos-Linq.pdb

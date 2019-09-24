@@ -1,0 +1,12 @@
+C:\Users\Santiago\AppData\Local\Temporary Projects\AccesoBDCSharp\bin\Debug\AccesoBDCSharp.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\8) Acceso a BD con C#\AccesoBDCSharp\AccesoBDCSharp\bin\Debug\AccesoBDCSharp.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\8) Acceso a BD con C#\AccesoBDCSharp\AccesoBDCSharp\bin\Debug\AccesoBDCSharp.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\8) Acceso a BD con C#\AccesoBDCSharp\AccesoBDCSharp\bin\Debug\AccesoBDCSharp.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\8) Acceso a BD con C#\AccesoBDCSharp\AccesoBDCSharp\obj\Debug\AccesoBDCSharp.PersonasDB_Frm.resources
+C:\Users\Santiago\OneDrive\DeveLearning\C#\8) Acceso a BD con C#\AccesoBDCSharp\AccesoBDCSharp\obj\Debug\AccesoBDCSharp.Properties.Resources.resources
+C:\Users\Santiago\OneDrive\DeveLearning\C#\8) Acceso a BD con C#\AccesoBDCSharp\AccesoBDCSharp\obj\Debug\AccesoBDCSharp.csproj.GenerateResource.Cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\8) Acceso a BD con C#\AccesoBDCSharp\AccesoBDCSharp\obj\Debug\AccesoBDCSharp.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\8) Acceso a BD con C#\AccesoBDCSharp\AccesoBDCSharp\obj\Debug\AccesoBDCSharp.pdb
+D:\OneDrive\DeveLearning\C#\8) Acceso a BD con C#\AccesoBDCSharp\AccesoBDCSharp\bin\Debug\AccesoBDCSharp.exe.config
+D:\OneDrive\DeveLearning\C#\8) Acceso a BD con C#\AccesoBDCSharp\AccesoBDCSharp\obj\Debug\AccesoBDCSharp.exe
+D:\OneDrive\DeveLearning\C#\8) Acceso a BD con C#\AccesoBDCSharp\AccesoBDCSharp\obj\Debug\AccesoBDCSharp.pdb

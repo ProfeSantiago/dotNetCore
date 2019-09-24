@@ -1,0 +1,6 @@
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\ObjetosComunesDLL\bin\Debug\ObjetosComunesDLL.dll
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\ObjetosComunesDLL\bin\Debug\ObjetosComunesDLL.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\ObjetosComunesDLL\obj\Debug\ObjetosComunesDLL.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\ObjetosComunesDLL\obj\Debug\ObjetosComunesDLL.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\ObjetosComunesDLL\obj\Debug\ObjetosComunesDLL.dll
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\ObjetosComunesDLL\obj\Debug\ObjetosComunesDLL.pdb

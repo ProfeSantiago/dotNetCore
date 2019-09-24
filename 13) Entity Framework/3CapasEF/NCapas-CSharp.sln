@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCapas-CSharp", "NCapas-CSharp\NCapas-CSharp.csproj", "{2A4D81B3-2A68-40C4-A5F3-A23DD7A78298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegundaCapa_DLL", "SegundaCapa_DLL\SegundaCapa_DLL.csproj", "{61282F59-28C7-459B-ADE8-9FD0FB8EEB02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A4D81B3-2A68-40C4-A5F3-A23DD7A78298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4D81B3-2A68-40C4-A5F3-A23DD7A78298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4D81B3-2A68-40C4-A5F3-A23DD7A78298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4D81B3-2A68-40C4-A5F3-A23DD7A78298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61282F59-28C7-459B-ADE8-9FD0FB8EEB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61282F59-28C7-459B-ADE8-9FD0FB8EEB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61282F59-28C7-459B-ADE8-9FD0FB8EEB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61282F59-28C7-459B-ADE8-9FD0FB8EEB02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74B4FBC4-DDC6-498F-83C0-132F8F863A5E}
+	EndGlobalSection
+EndGlobal

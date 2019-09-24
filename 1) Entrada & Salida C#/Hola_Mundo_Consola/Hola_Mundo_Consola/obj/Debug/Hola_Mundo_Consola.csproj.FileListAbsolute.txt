@@ -1,0 +1,6 @@
+C:\Users\Santiago\Dropbox\DeveLearning\C#\1) Entrada & Salida\Hola_Mundo_Consola\Hola_Mundo_Consola\bin\Debug\Hola_Mundo_Consola.exe.config
+C:\Users\Santiago\Dropbox\DeveLearning\C#\1) Entrada & Salida\Hola_Mundo_Consola\Hola_Mundo_Consola\bin\Debug\Hola_Mundo_Consola.exe
+C:\Users\Santiago\Dropbox\DeveLearning\C#\1) Entrada & Salida\Hola_Mundo_Consola\Hola_Mundo_Consola\bin\Debug\Hola_Mundo_Consola.pdb
+C:\Users\Santiago\Dropbox\DeveLearning\C#\1) Entrada & Salida\Hola_Mundo_Consola\Hola_Mundo_Consola\obj\Debug\Hola_Mundo_Consola.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\Dropbox\DeveLearning\C#\1) Entrada & Salida\Hola_Mundo_Consola\Hola_Mundo_Consola\obj\Debug\Hola_Mundo_Consola.exe
+C:\Users\Santiago\Dropbox\DeveLearning\C#\1) Entrada & Salida\Hola_Mundo_Consola\Hola_Mundo_Consola\obj\Debug\Hola_Mundo_Consola.pdb

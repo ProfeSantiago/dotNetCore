@@ -1,0 +1,11 @@
+C:\Users\Santiago\AppData\Local\Temporary Projects\ListaClases\bin\Debug\ListaClases.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\bin\Debug\ListaClases.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\bin\Debug\ListaClases.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\bin\Debug\ListaClases.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.ListaPersonas_Frm.resources
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.Properties.Resources.resources
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.csproj.GenerateResource.Cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.csproj.CoreCompileInputs.cache

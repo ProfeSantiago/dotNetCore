@@ -1,0 +1,13 @@
+C:\Users\Santiago\OneDrive\DeveLearning\C#\NCapas-CSharp\NCapas-CSharp\SegundaCapa_DLL\bin\Debug\SegundaCapa_DLL.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\NCapas-CSharp\NCapas-CSharp\SegundaCapa_DLL\obj\Debug\SegundaCapa_DLL.dll
+C:\Users\Santiago\OneDrive\DeveLearning\C#\NCapas-CSharp\NCapas-CSharp\SegundaCapa_DLL\obj\Debug\SegundaCapa_DLL.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\NCapas-CSharp\NCapas-CSharp\SegundaCapa_DLL\obj\Debug\SegundaCapa_DLL.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Aplicaciones de 3 Capas C#\NCapas-CSharp\SegundaCapa_DLL\bin\Debug\SegundaCapa_DLL.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Aplicaciones de 3 Capas C#\NCapas-CSharp\SegundaCapa_DLL\obj\Debug\SegundaCapa_DLL.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Aplicaciones de 3 Capas C#\NCapas-CSharp\SegundaCapa_DLL\obj\Debug\SegundaCapa_DLL.dll
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Aplicaciones de 3 Capas C#\NCapas-CSharp\SegundaCapa_DLL\obj\Debug\SegundaCapa_DLL.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\SegundaCapa_DLL\bin\Debug\SegundaCapa_DLL.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\SegundaCapa_DLL\obj\Debug\SegundaCapa_DLL.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\SegundaCapa_DLL\obj\Debug\SegundaCapa_DLL.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\SegundaCapa_DLL\obj\Debug\SegundaCapa_DLL.dll
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\SegundaCapa_DLL\obj\Debug\SegundaCapa_DLL.pdb

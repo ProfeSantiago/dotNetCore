@@ -1,0 +1,9 @@
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\bin\Release\ListaClases.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\bin\Release\ListaClases.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\bin\Release\ListaClases.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Release\ListaClases.ListaPersonas_Frm.resources
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Release\ListaClases.Properties.Resources.resources
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Release\ListaClases.csproj.GenerateResource.Cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Release\ListaClases.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Release\ListaClases.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Release\ListaClases.pdb

@@ -1,0 +1,15 @@
+C:\Users\Santiago\Dropbox\Ulacit\TecProg. O.O\Encapsulamiento_CSharp\Encapsulamiento_CSharp\bin\Debug\Encapsulamiento_CSharp.exe.config
+C:\Users\Santiago\Dropbox\Ulacit\TecProg. O.O\Encapsulamiento_CSharp\Encapsulamiento_CSharp\bin\Debug\Encapsulamiento_CSharp.exe
+C:\Users\Santiago\Dropbox\Ulacit\TecProg. O.O\Encapsulamiento_CSharp\Encapsulamiento_CSharp\bin\Debug\Encapsulamiento_CSharp.pdb
+C:\Users\Santiago\Dropbox\Ulacit\TecProg. O.O\Encapsulamiento_CSharp\Encapsulamiento_CSharp\obj\Debug\Encapsulamiento_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\Dropbox\Ulacit\TecProg. O.O\Encapsulamiento_CSharp\Encapsulamiento_CSharp\obj\Debug\Encapsulamiento_CSharp.exe
+C:\Users\Santiago\Dropbox\Ulacit\TecProg. O.O\Encapsulamiento_CSharp\Encapsulamiento_CSharp\obj\Debug\Encapsulamiento_CSharp.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos  C#\Encapsulamiento_CSharp\Encapsulamiento_CSharp\bin\Debug\Encapsulamiento_CSharp.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos  C#\Encapsulamiento_CSharp\Encapsulamiento_CSharp\obj\Debug\Encapsulamiento_CSharp.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos  C#\Encapsulamiento_CSharp\Encapsulamiento_CSharp\obj\Debug\Encapsulamiento_CSharp.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos  C#\Encapsulamiento_CSharp\Encapsulamiento_CSharp\bin\Debug\Encapsulamiento_CSharp.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos  C#\Encapsulamiento_CSharp\Encapsulamiento_CSharp\bin\Debug\Encapsulamiento_CSharp.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos  C#\Encapsulamiento_CSharp\Encapsulamiento_CSharp\obj\Debug\Encapsulamiento_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\Encapsulamiento_CSharp\Encapsulamiento_CSharp\bin\Debug\Encapsulamiento_CSharp.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\Encapsulamiento_CSharp\Encapsulamiento_CSharp\obj\Debug\Encapsulamiento_CSharp.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\Encapsulamiento_CSharp\Encapsulamiento_CSharp\obj\Debug\Encapsulamiento_CSharp.pdb

@@ -1,0 +1,79 @@
+﻿@model MVC4_DB_JS.Models.ModeloPersonas
+
+@{
+    ViewBag.Title = "Inserta Personas";
+}
+
+<h2>InsertaPersonas</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>ModeloPersonas</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Cedula)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Cedula)
+            @Html.ValidationMessageFor(model => model.Cedula)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Nombre)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Nombre)
+            @Html.ValidationMessageFor(model => model.Nombre)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Telefono)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Telefono)
+            @Html.ValidationMessageFor(model => model.Telefono)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Direccion)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Direccion)
+            @Html.ValidationMessageFor(model => model.Direccion)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Correo)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Correo)
+            @Html.ValidationMessageFor(model => model.Correo)
+        </div>
+
+        <p>
+            <input type="submit" value="Guardar" />
+        </p>
+    </fieldset>
+}
+
+@{
+    if (ViewData["resultado"] != "0" && ViewData["resultado"] != null)
+    {
+        ViewData["resultado"] = null;
+        
+    <script type="text/javascript" language="javascript">
+        alert("Persona guardada satisfactoriamente");
+    </script>
+    }
+}
+
+<div>
+    @Html.ActionLink("De vuelta al listado de personas", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

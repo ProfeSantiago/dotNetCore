@@ -1,0 +1,46 @@
+C:\Users\Santiago\AppData\Local\Temporary Projects\NCapas-CSharp\bin\Debug\NCapas-CSharp.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\NCapas-CSharp\NCapas-CSharp\NCapas-CSharp\bin\Debug\NCapas-CSharp.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\NCapas-CSharp\NCapas-CSharp\NCapas-CSharp\bin\Debug\NCapas-CSharp.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\NCapas-CSharp\NCapas-CSharp\NCapas-CSharp\bin\Debug\NCapas-CSharp.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\NCapas-CSharp\NCapas-CSharp\NCapas-CSharp\bin\Debug\SegundaCapa_DLL.dll
+C:\Users\Santiago\OneDrive\DeveLearning\C#\NCapas-CSharp\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\NCapas-CSharp\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas_CSharp.Agenda_Frm.resources
+C:\Users\Santiago\OneDrive\DeveLearning\C#\NCapas-CSharp\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas_CSharp.Properties.Resources.resources
+C:\Users\Santiago\OneDrive\DeveLearning\C#\NCapas-CSharp\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas-CSharp.csproj.GenerateResource.Cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\NCapas-CSharp\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas-CSharp.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\NCapas-CSharp\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas-CSharp.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\bin\Debug\NCapas-CSharp.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\bin\Debug\NCapas-CSharp.exe
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\bin\Debug\NCapas-CSharp.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\bin\Debug\SegundaCapa_DLL.dll
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\bin\Debug\SegundaCapa_DLL.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas_CSharp.Agenda_Frm.resources
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas_CSharp.Properties.Resources.resources
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas-CSharp.csproj.GenerateResource.Cache
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas-CSharp.exe
+C:\Users\Santiago\OneDrive\DeveLearning\Arquitectura de Software\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas-CSharp.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas_CSharp.Agenda_Frm.resources
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas_CSharp.Properties.Resources.resources
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas-CSharp.csproj.GenerateResource.Cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\bin\Debug\NCapas-CSharp.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\bin\Debug\NCapas-CSharp.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\bin\Debug\NCapas-CSharp.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\bin\Debug\SegundaCapa_DLL.dll
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\bin\Debug\SegundaCapa_DLL.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas-CSharp.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas-CSharp.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\9) Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\bin\Debug\NCapas-CSharp.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\9) Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\bin\Debug\NCapas-CSharp.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\9) Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\bin\Debug\NCapas-CSharp.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\9) Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\bin\Debug\SegundaCapa_DLL.dll
+C:\Users\Santiago\OneDrive\DeveLearning\C#\9) Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\bin\Debug\SegundaCapa_DLL.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\9) Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\9) Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas_CSharp.Agenda_Frm.resources
+C:\Users\Santiago\OneDrive\DeveLearning\C#\9) Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas_CSharp.Properties.Resources.resources
+C:\Users\Santiago\OneDrive\DeveLearning\C#\9) Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas-CSharp.csproj.GenerateResource.Cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\9) Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\9) Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas-CSharp.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\9) Aplicaciones de 3 Capas C#\NCapas-CSharp\NCapas-CSharp\obj\Debug\NCapas-CSharp.pdb

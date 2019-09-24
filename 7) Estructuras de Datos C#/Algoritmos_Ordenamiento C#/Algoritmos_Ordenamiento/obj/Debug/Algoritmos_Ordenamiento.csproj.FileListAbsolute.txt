@@ -1,0 +1,18 @@
+C:\Users\Santiago\Dropbox\DeveLearning\C# Intermedio\Algoritmos de Ordenamiento\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\bin\Debug\Algoritmos_Ordenamiento.exe.config
+C:\Users\Santiago\Dropbox\DeveLearning\C# Intermedio\Algoritmos de Ordenamiento\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\bin\Debug\Algoritmos_Ordenamiento.exe
+C:\Users\Santiago\Dropbox\DeveLearning\C# Intermedio\Algoritmos de Ordenamiento\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\bin\Debug\Algoritmos_Ordenamiento.pdb
+C:\Users\Santiago\Dropbox\DeveLearning\C# Intermedio\Algoritmos de Ordenamiento\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\Dropbox\DeveLearning\C# Intermedio\Algoritmos de Ordenamiento\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.Ordenamientos_Frm.resources
+C:\Users\Santiago\Dropbox\DeveLearning\C# Intermedio\Algoritmos de Ordenamiento\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.Properties.Resources.resources
+C:\Users\Santiago\Dropbox\DeveLearning\C# Intermedio\Algoritmos de Ordenamiento\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.csproj.GenerateResource.Cache
+C:\Users\Santiago\Dropbox\DeveLearning\C# Intermedio\Algoritmos de Ordenamiento\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.exe
+C:\Users\Santiago\Dropbox\DeveLearning\C# Intermedio\Algoritmos de Ordenamiento\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.pdb
+C:\Users\SantiRodriguez\OneDrive\DeveLearning\C#\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\bin\Debug\Algoritmos_Ordenamiento.exe.config
+C:\Users\SantiRodriguez\OneDrive\DeveLearning\C#\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.exe
+C:\Users\SantiRodriguez\OneDrive\DeveLearning\C#\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.pdb
+C:\Users\SantiRodriguez\OneDrive\DeveLearning\C#\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\bin\Debug\Algoritmos_Ordenamiento.exe
+C:\Users\SantiRodriguez\OneDrive\DeveLearning\C#\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\bin\Debug\Algoritmos_Ordenamiento.pdb
+C:\Users\SantiRodriguez\OneDrive\DeveLearning\C#\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.csprojResolveAssemblyReference.cache
+C:\Users\SantiRodriguez\OneDrive\DeveLearning\C#\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.Ordenamientos_Frm.resources
+C:\Users\SantiRodriguez\OneDrive\DeveLearning\C#\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.Properties.Resources.resources
+C:\Users\SantiRodriguez\OneDrive\DeveLearning\C#\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.csproj.GenerateResource.Cache

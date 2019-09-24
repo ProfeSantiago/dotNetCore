@@ -1,0 +1,13 @@
+C:\Users\Santiago\AppData\Local\Temporary Projects\4-masEjemplos-Linq\bin\Debug\4-masEjemplos-Linq.exe.config
+C:\Users\Santiago\AppData\Local\Temporary Projects\4-masEjemplos-Linq\bin\Debug\4-masEjemplos-Linq.exe
+C:\Users\Santiago\AppData\Local\Temporary Projects\4-masEjemplos-Linq\bin\Debug\4-masEjemplos-Linq.pdb
+C:\Users\Santiago\AppData\Local\Temporary Projects\4-masEjemplos-Linq\obj\Debug\4-masEjemplos-Linq.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\AppData\Local\Temporary Projects\4-masEjemplos-Linq\obj\Debug\4-masEjemplos-Linq.exe
+C:\Users\Santiago\AppData\Local\Temporary Projects\4-masEjemplos-Linq\obj\Debug\4-masEjemplos-Linq.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\4-masEjemplos-Linq\4-masEjemplos-Linq\bin\Debug\4-masEjemplos-Linq.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\4-masEjemplos-Linq\4-masEjemplos-Linq\bin\Debug\4-masEjemplos-Linq.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\4-masEjemplos-Linq\4-masEjemplos-Linq\bin\Debug\4-masEjemplos-Linq.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\4-masEjemplos-Linq\4-masEjemplos-Linq\obj\Debug\4-masEjemplos-Linq.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\4-masEjemplos-Linq\4-masEjemplos-Linq\obj\Debug\4-masEjemplos-Linq.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\4-masEjemplos-Linq\4-masEjemplos-Linq\obj\Debug\4-masEjemplos-Linq.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\4-masEjemplos-Linq\4-masEjemplos-Linq\obj\Debug\4-masEjemplos-Linq.csprojResolveAssemblyReference.cache

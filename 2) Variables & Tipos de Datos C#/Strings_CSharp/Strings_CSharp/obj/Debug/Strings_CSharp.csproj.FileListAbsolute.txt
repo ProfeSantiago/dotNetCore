@@ -1,0 +1,10 @@
+C:\Users\Santiago\AppData\Local\Temporary Projects\Strings_CSharp\bin\Debug\Strings_CSharp.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\bin\Debug\Strings_CSharp.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\bin\Debug\Strings_CSharp.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\bin\Debug\Strings_CSharp.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\obj\Debug\Strings_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\obj\Debug\Strings_CSharp.Properties.Resources.resources
+C:\Users\Santiago\OneDrive\DeveLearning\C#\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\obj\Debug\Strings_CSharp.Strings_Frm.resources
+C:\Users\Santiago\OneDrive\DeveLearning\C#\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\obj\Debug\Strings_CSharp.csproj.GenerateResource.Cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\obj\Debug\Strings_CSharp.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\obj\Debug\Strings_CSharp.pdb

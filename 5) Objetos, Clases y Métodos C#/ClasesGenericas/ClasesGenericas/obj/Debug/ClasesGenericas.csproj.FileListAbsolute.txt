@@ -1,0 +1,6 @@
+C:\Users\Santiago\AppData\Local\Temporary Projects\ClasesGenericas\bin\Debug\ClasesGenericas.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.Genericas_Frm.resources
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.Properties.Resources.resources
+C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.csproj.GenerateResource.Cache

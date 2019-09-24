@@ -1,0 +1,7 @@
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\introLinq\introLinq\bin\Debug\introLinq.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\introLinq\introLinq\bin\Debug\introLinq.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\introLinq\introLinq\bin\Debug\introLinq.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\introLinq\introLinq\obj\Debug\introLinq.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\introLinq\introLinq\obj\Debug\introLinq.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\introLinq\introLinq\obj\Debug\introLinq.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\introLinq\introLinq\obj\Debug\introLinq.pdb

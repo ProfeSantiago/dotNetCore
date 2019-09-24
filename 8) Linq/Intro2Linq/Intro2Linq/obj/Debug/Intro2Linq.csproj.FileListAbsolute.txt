@@ -1,0 +1,14 @@
+C:\Users\Santiago\AppData\Local\Temporary Projects\Intro2Linq\bin\Debug\Intro2Linq.exe.config
+C:\Users\Santiago\AppData\Local\Temporary Projects\Intro2Linq\bin\Debug\Intro2Linq.exe
+C:\Users\Santiago\AppData\Local\Temporary Projects\Intro2Linq\bin\Debug\Intro2Linq.pdb
+C:\Users\Santiago\AppData\Local\Temporary Projects\Intro2Linq\obj\Debug\Intro2Linq.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\AppData\Local\Temporary Projects\Intro2Linq\obj\Debug\Intro2Linq.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\AppData\Local\Temporary Projects\Intro2Linq\obj\Debug\Intro2Linq.exe
+C:\Users\Santiago\AppData\Local\Temporary Projects\Intro2Linq\obj\Debug\Intro2Linq.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\Intro2Linq\Intro2Linq\bin\Debug\Intro2Linq.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\Intro2Linq\Intro2Linq\bin\Debug\Intro2Linq.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\Intro2Linq\Intro2Linq\bin\Debug\Intro2Linq.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\Intro2Linq\Intro2Linq\obj\Debug\Intro2Linq.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\Intro2Linq\Intro2Linq\obj\Debug\Intro2Linq.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\Intro2Linq\Intro2Linq\obj\Debug\Intro2Linq.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\Intro2Linq\Intro2Linq\obj\Debug\Intro2Linq.pdb

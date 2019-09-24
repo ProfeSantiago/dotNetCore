@@ -1,0 +1,19 @@
+C:\Users\Santiago\Dropbox\DeveLearning\C# Básico\3) Tipos de Datos\Variables_Enteras\Variables_Enteras\bin\Debug\Variables_Enteras.exe.config
+C:\Users\srodriguez\Dropbox\DeveLearning\C# Básico\3) Tipos de Datos\Variables_Enteras\Variables_Enteras\bin\Debug\Variables_Enteras.exe.config
+C:\Users\srodriguez\Dropbox\DeveLearning\C# Básico\3) Tipos de Datos\Variables_Enteras\Variables_Enteras\bin\Debug\Variables_Enteras.exe
+C:\Users\srodriguez\Dropbox\DeveLearning\C# Básico\3) Tipos de Datos\Variables_Enteras\Variables_Enteras\bin\Debug\Variables_Enteras.pdb
+C:\Users\srodriguez\Dropbox\DeveLearning\C# Básico\3) Tipos de Datos\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.csprojResolveAssemblyReference.cache
+C:\Users\srodriguez\Dropbox\DeveLearning\C# Básico\3) Tipos de Datos\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.VarEnt_Frm.resources
+C:\Users\srodriguez\Dropbox\DeveLearning\C# Básico\3) Tipos de Datos\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.Properties.Resources.resources
+C:\Users\srodriguez\Dropbox\DeveLearning\C# Básico\3) Tipos de Datos\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.csproj.GenerateResource.Cache
+C:\Users\srodriguez\Dropbox\DeveLearning\C# Básico\3) Tipos de Datos\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.exe
+C:\Users\srodriguez\Dropbox\DeveLearning\C# Básico\3) Tipos de Datos\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.pdb
+C:\Users\srodriguez\Dropbox\DeveLearning\C# Básico\2) Tipos de Datos\Variables_Enteras\Variables_Enteras\bin\Debug\Variables_Enteras.exe.config
+C:\Users\srodriguez\Dropbox\DeveLearning\C# Básico\2) Tipos de Datos\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.exe
+C:\Users\srodriguez\Dropbox\DeveLearning\C# Básico\2) Tipos de Datos\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.pdb
+C:\Users\Santiago\SkyDrive\DeveLearning\2) Tipos de Datos\Tipos de Datos C#\Variables_Enteras\Variables_Enteras\bin\Debug\Variables_Enteras.exe.config
+C:\Users\Santiago\SkyDrive\DeveLearning\2) Tipos de Datos\Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.exe
+C:\Users\Santiago\SkyDrive\DeveLearning\2) Tipos de Datos\Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\C#\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\bin\Debug\Variables_Enteras.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\C#\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.exe
+C:\Users\Santiago\OneDrive\DeveLearning\C#\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.pdb

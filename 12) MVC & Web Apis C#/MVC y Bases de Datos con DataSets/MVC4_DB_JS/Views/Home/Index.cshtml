@@ -1,0 +1,55 @@
+﻿
+@model IEnumerable<MVC4_DB_JS.Models.ModeloPersonas>
+
+@{
+    ViewBag.Title = "Index";
+    WebGrid grid = new WebGrid(Model, rowsPerPage: 2);
+}
+
+<h2>Lista de Contactos</h2>
+
+<style type="text/css">
+    .table {
+        margin: 4px;
+        border-collapse: collapse;
+        width: 300px;
+    }
+
+    .header {
+        background-color: gray;
+        font-weight: bold;
+        color: #fff;
+    }
+
+    .table th, .table td {
+        border: 1px solid black;
+        padding: 5px;
+    }
+</style>
+
+@grid.GetHtml(
+
+    tableStyle: "table",
+    headerStyle: "header",
+    footerStyle: "grid-footer",
+
+    fillEmptyRows: true,
+
+    mode: WebGridPagerModes.All,
+    firstText: "<< Primero",
+    previousText: "< Anterior",
+    nextText: "Siguiente >",
+    lastText: "Ultimo >>",
+
+    columns: new[]  
+    {
+        grid.Column("Cedula"), 
+        grid.Column("Nombre"),
+        grid.Column("Telefono"),
+        grid.Column("Direccion"),
+        grid.Column("Correo"), 
+   })
+
+<div>
+    @Html.ActionLink("Insertar una nueva persona", "InsertaPersonas")
+</div>
