@@ -1,3 +1,4 @@
+
 #### Plan del Curso de C# (.Net Framework & .Net Core Framework):
 
 #### Lección #1:
@@ -35,6 +36,4 @@
 #### Lección #9 (Opcional):
 * Entity Framework.
 
-
-<hr/>
 
