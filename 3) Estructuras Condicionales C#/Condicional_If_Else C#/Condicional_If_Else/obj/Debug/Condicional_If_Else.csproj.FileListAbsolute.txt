@@ -7,3 +7,14 @@ C:\Users\srodriguez\Dropbox\DeveLearning\C#\2) Estructuras Condicionales\Condici
 C:\Users\srodriguez\Dropbox\DeveLearning\C#\2) Estructuras Condicionales\Condicional_If_Else\Condicional_If_Else\obj\Debug\Condicional_If_Else.csproj.GenerateResource.Cache
 C:\Users\srodriguez\Dropbox\DeveLearning\C#\2) Estructuras Condicionales\Condicional_If_Else\Condicional_If_Else\obj\Debug\Condicional_If_Else.exe
 C:\Users\srodriguez\Dropbox\DeveLearning\C#\2) Estructuras Condicionales\Condicional_If_Else\Condicional_If_Else\obj\Debug\Condicional_If_Else.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\3) Estructuras Condicionales C#\Condicional_If_Else C#\Condicional_If_Else\bin\Debug\Condicional_If_Else.exe.config
+C:\Proyectos\ProfeSantiago\dotNetCore\3) Estructuras Condicionales C#\Condicional_If_Else C#\Condicional_If_Else\bin\Debug\Condicional_If_Else.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\3) Estructuras Condicionales C#\Condicional_If_Else C#\Condicional_If_Else\bin\Debug\Condicional_If_Else.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\3) Estructuras Condicionales C#\Condicional_If_Else C#\Condicional_If_Else\obj\Debug\Condicional_If_Else.csproj.AssemblyReference.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\3) Estructuras Condicionales C#\Condicional_If_Else C#\Condicional_If_Else\obj\Debug\Condicional_If_Else.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\3) Estructuras Condicionales C#\Condicional_If_Else C#\Condicional_If_Else\obj\Debug\Condicional_If_Else.Condicionales_Frm.resources
+C:\Proyectos\ProfeSantiago\dotNetCore\3) Estructuras Condicionales C#\Condicional_If_Else C#\Condicional_If_Else\obj\Debug\Condicional_If_Else.Properties.Resources.resources
+C:\Proyectos\ProfeSantiago\dotNetCore\3) Estructuras Condicionales C#\Condicional_If_Else C#\Condicional_If_Else\obj\Debug\Condicional_If_Else.csproj.GenerateResource.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\3) Estructuras Condicionales C#\Condicional_If_Else C#\Condicional_If_Else\obj\Debug\Condicional_If_Else.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\3) Estructuras Condicionales C#\Condicional_If_Else C#\Condicional_If_Else\obj\Debug\Condicional_If_Else.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\3) Estructuras Condicionales C#\Condicional_If_Else C#\Condicional_If_Else\obj\Debug\Condicional_If_Else.pdb

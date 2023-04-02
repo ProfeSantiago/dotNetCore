@@ -1,0 +1,4 @@
+dotnet new mvc -o MyMVCapp
+code -r MyMVCapp
+
+dotnet dev-certs https --trust

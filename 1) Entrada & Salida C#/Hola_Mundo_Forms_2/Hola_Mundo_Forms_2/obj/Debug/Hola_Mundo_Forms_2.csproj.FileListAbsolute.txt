@@ -7,3 +7,14 @@ C:\Users\Santiago\Dropbox\DeveLearning\C#\1) Entrada & Salida\Hola_Mundo_Forms_2
 C:\Users\Santiago\Dropbox\DeveLearning\C#\1) Entrada & Salida\Hola_Mundo_Forms_2\Hola_Mundo_Forms_2\obj\Debug\Hola_Mundo_Forms_2.csproj.GenerateResource.Cache
 C:\Users\Santiago\Dropbox\DeveLearning\C#\1) Entrada & Salida\Hola_Mundo_Forms_2\Hola_Mundo_Forms_2\obj\Debug\Hola_Mundo_Forms_2.exe
 C:\Users\Santiago\Dropbox\DeveLearning\C#\1) Entrada & Salida\Hola_Mundo_Forms_2\Hola_Mundo_Forms_2\obj\Debug\Hola_Mundo_Forms_2.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Forms_2\Hola_Mundo_Forms_2\bin\Debug\Hola_Mundo_Forms_2.exe.config
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Forms_2\Hola_Mundo_Forms_2\bin\Debug\Hola_Mundo_Forms_2.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Forms_2\Hola_Mundo_Forms_2\bin\Debug\Hola_Mundo_Forms_2.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Forms_2\Hola_Mundo_Forms_2\obj\Debug\Hola_Mundo_Forms_2.csproj.AssemblyReference.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Forms_2\Hola_Mundo_Forms_2\obj\Debug\Hola_Mundo_Forms_2.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Forms_2\Hola_Mundo_Forms_2\obj\Debug\Hola_Mundo_Forms_2.Hola_Frm.resources
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Forms_2\Hola_Mundo_Forms_2\obj\Debug\Hola_Mundo_Forms_2.Properties.Resources.resources
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Forms_2\Hola_Mundo_Forms_2\obj\Debug\Hola_Mundo_Forms_2.csproj.GenerateResource.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Forms_2\Hola_Mundo_Forms_2\obj\Debug\Hola_Mundo_Forms_2.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Forms_2\Hola_Mundo_Forms_2\obj\Debug\Hola_Mundo_Forms_2.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Forms_2\Hola_Mundo_Forms_2\obj\Debug\Hola_Mundo_Forms_2.pdb

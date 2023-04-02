@@ -8,3 +8,14 @@ C:\Users\Santiago\OneDrive\DeveLearning\C#\2) Variables & Tipos de Datos C#\Stri
 C:\Users\Santiago\OneDrive\DeveLearning\C#\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\obj\Debug\Strings_CSharp.csproj.GenerateResource.Cache
 C:\Users\Santiago\OneDrive\DeveLearning\C#\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\obj\Debug\Strings_CSharp.exe
 C:\Users\Santiago\OneDrive\DeveLearning\C#\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\obj\Debug\Strings_CSharp.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\bin\Debug\Strings_CSharp.exe.config
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\bin\Debug\Strings_CSharp.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\bin\Debug\Strings_CSharp.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\obj\Debug\Strings_CSharp.csproj.AssemblyReference.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\obj\Debug\Strings_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\obj\Debug\Strings_CSharp.Properties.Resources.resources
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\obj\Debug\Strings_CSharp.Strings_Frm.resources
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\obj\Debug\Strings_CSharp.csproj.GenerateResource.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\obj\Debug\Strings_CSharp.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\obj\Debug\Strings_CSharp.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Strings_CSharp\Strings_CSharp\obj\Debug\Strings_CSharp.pdb

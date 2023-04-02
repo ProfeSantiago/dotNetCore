@@ -29,5 +29,10 @@ namespace Condicional_If_Else
             }
 
         }
+
+        private void Condicionales_Frm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

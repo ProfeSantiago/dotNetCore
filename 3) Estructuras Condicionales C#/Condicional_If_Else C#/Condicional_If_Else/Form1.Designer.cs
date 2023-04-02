@@ -37,9 +37,10 @@
             // 
             // Ingresa_Btn
             // 
-            this.Ingresa_Btn.Location = new System.Drawing.Point(108, 130);
+            this.Ingresa_Btn.Location = new System.Drawing.Point(144, 160);
+            this.Ingresa_Btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Ingresa_Btn.Name = "Ingresa_Btn";
-            this.Ingresa_Btn.Size = new System.Drawing.Size(75, 23);
+            this.Ingresa_Btn.Size = new System.Drawing.Size(100, 28);
             this.Ingresa_Btn.TabIndex = 0;
             this.Ingresa_Btn.Text = "Ingresar";
             this.Ingresa_Btn.UseVisualStyleBackColor = true;
@@ -48,47 +49,53 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 21);
+            this.label1.Location = new System.Drawing.Point(16, 26);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(47, 13);
+            this.label1.Size = new System.Drawing.Size(59, 16);
             this.label1.TabIndex = 1;
             this.label1.Text = "Nombre:";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(12, 73);
+            this.label2.Location = new System.Drawing.Point(16, 90);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(32, 13);
+            this.label2.Size = new System.Drawing.Size(40, 16);
             this.label2.TabIndex = 2;
             this.label2.Text = "Edad";
             // 
             // Nombre_Txt
             // 
-            this.Nombre_Txt.Location = new System.Drawing.Point(12, 37);
+            this.Nombre_Txt.Location = new System.Drawing.Point(16, 46);
+            this.Nombre_Txt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Nombre_Txt.Name = "Nombre_Txt";
-            this.Nombre_Txt.Size = new System.Drawing.Size(173, 20);
+            this.Nombre_Txt.Size = new System.Drawing.Size(229, 22);
             this.Nombre_Txt.TabIndex = 3;
             // 
             // Edad_Txt
             // 
-            this.Edad_Txt.Location = new System.Drawing.Point(12, 89);
+            this.Edad_Txt.Location = new System.Drawing.Point(16, 110);
+            this.Edad_Txt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Edad_Txt.Name = "Edad_Txt";
-            this.Edad_Txt.Size = new System.Drawing.Size(171, 20);
+            this.Edad_Txt.Size = new System.Drawing.Size(227, 22);
             this.Edad_Txt.TabIndex = 4;
             // 
             // Condicionales_Frm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(203, 163);
+            this.ClientSize = new System.Drawing.Size(271, 201);
             this.Controls.Add(this.Edad_Txt);
             this.Controls.Add(this.Nombre_Txt);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.Ingresa_Btn);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Condicionales_Frm";
             this.Text = "Condicionales";
+            this.Load += new System.EventHandler(this.Condicionales_Frm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

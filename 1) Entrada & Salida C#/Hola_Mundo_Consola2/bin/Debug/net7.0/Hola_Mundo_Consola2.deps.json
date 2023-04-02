@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Hola_Mundo_Consola2/1.0.0": {
+        "runtime": {
+          "Hola_Mundo_Consola2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hola_Mundo_Consola2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

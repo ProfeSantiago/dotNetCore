@@ -1,0 +1,5 @@
+dotnet new Hola_Mundo_Consola2
+
+dotnet build Hola_Mundo_Consola2.csproj
+
+dotnet run Hola_Mundo_Consola2.csproj  

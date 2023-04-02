@@ -17,3 +17,14 @@ C:\Users\Santiago\SkyDrive\DeveLearning\2) Tipos de Datos\Tipos de Datos C#\Vari
 C:\Users\Santiago\OneDrive\DeveLearning\C#\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\bin\Debug\Variables_Enteras.exe.config
 C:\Users\Santiago\OneDrive\DeveLearning\C#\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.exe
 C:\Users\Santiago\OneDrive\DeveLearning\C#\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\bin\Debug\Variables_Enteras.exe.config
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\bin\Debug\Variables_Enteras.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\bin\Debug\Variables_Enteras.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.csproj.AssemblyReference.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.VarEnt_Frm.resources
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.Properties.Resources.resources
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.csproj.GenerateResource.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.pdb

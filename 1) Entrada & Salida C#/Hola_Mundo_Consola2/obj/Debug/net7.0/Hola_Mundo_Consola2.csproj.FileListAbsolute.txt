@@ -1,0 +1,15 @@
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Consola2\bin\Debug\net7.0\Hola_Mundo_Consola2.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Consola2\bin\Debug\net7.0\Hola_Mundo_Consola2.deps.json
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Consola2\bin\Debug\net7.0\Hola_Mundo_Consola2.runtimeconfig.json
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Consola2\bin\Debug\net7.0\Hola_Mundo_Consola2.dll
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Consola2\bin\Debug\net7.0\Hola_Mundo_Consola2.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Consola2\obj\Debug\net7.0\Hola_Mundo_Consola2.csproj.AssemblyReference.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Consola2\obj\Debug\net7.0\Hola_Mundo_Consola2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Consola2\obj\Debug\net7.0\Hola_Mundo_Consola2.AssemblyInfoInputs.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Consola2\obj\Debug\net7.0\Hola_Mundo_Consola2.AssemblyInfo.cs
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Consola2\obj\Debug\net7.0\Hola_Mundo_Consola2.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Consola2\obj\Debug\net7.0\Hola_Mundo_Consola2.dll
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Consola2\obj\Debug\net7.0\refint\Hola_Mundo_Consola2.dll
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Consola2\obj\Debug\net7.0\Hola_Mundo_Consola2.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Consola2\obj\Debug\net7.0\Hola_Mundo_Consola2.genruntimeconfig.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Hola_Mundo_Consola2\obj\Debug\net7.0\ref\Hola_Mundo_Consola2.dll
