@@ -1,0 +1,148 @@
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\MVC3_CSharp.dll
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\MVC3_CSharp.pdb
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\EntityFramework.dll
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Helpers.dll
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Mvc.dll
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Providers.dll
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Razor.dll
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.dll
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\EntityFramework.xml
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Helpers.xml
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Mvc.xml
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Razor.xml
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.xml
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\es\EntityFramework.resources.dll
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\es\System.Web.Providers.resources.dll
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\obj\Debug\MVC3_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\obj\Debug\MVC3_CSharp.dll
+C:\Users\Santiago\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\obj\Debug\MVC3_CSharp.pdb
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\MVC3_CSharp.dll
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\MVC3_CSharp.pdb
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\EntityFramework.dll
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Helpers.dll
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Mvc.dll
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Providers.dll
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Razor.dll
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.dll
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.Razor.dll
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\EntityFramework.xml
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Helpers.xml
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Mvc.xml
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Razor.xml
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.xml
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.Razor.xml
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\es\EntityFramework.resources.dll
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\es\System.Web.Providers.resources.dll
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\obj\Debug\MVC3_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\obj\Debug\MVC3_CSharp.dll
+C:\Users\srodriguez\Dropbox\DeveLearning\Arquitectura e Ingeniería de Software\MVC\MVC3_CSharp\MVC3_CSharp\obj\Debug\MVC3_CSharp.pdb
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\MVC3_CSharp.dll
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\MVC3_CSharp.pdb
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\EntityFramework.dll
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Helpers.dll
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Mvc.dll
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Providers.dll
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Razor.dll
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.dll
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\EntityFramework.xml
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Helpers.xml
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Mvc.xml
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Razor.xml
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.xml
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\es\EntityFramework.resources.dll
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\es\System.Web.Providers.resources.dll
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\obj\Debug\MVC3_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\obj\Debug\MVC3_CSharp.dll
+C:\Users\Santiago\Dropbox\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\obj\Debug\MVC3_CSharp.pdb
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\MVC3_CSharp.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\MVC3_CSharp.pdb
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\DynamicData.EFCodeFirstProvider.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\EntityFramework.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\EntityFramework.SqlServer.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Helpers.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Mvc.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Providers.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Razor.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\EntityFramework.xml
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\EntityFramework.SqlServer.xml
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Helpers.xml
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Mvc.xml
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.Razor.xml
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.xml
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\es\EntityFramework.resources.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\bin\es\System.Web.Providers.resources.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\obj\Debug\MVC3_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\obj\Debug\MVC3_CSharp.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3_CSharp\MVC3_CSharp\obj\Debug\MVC3_CSharp.pdb
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\MVC3_CSharp.dll
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\MVC3_CSharp.pdb
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\DynamicData.EFCodeFirstProvider.dll
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\EntityFramework.dll
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\EntityFramework.SqlServer.dll
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.Helpers.dll
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.Mvc.dll
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.Providers.dll
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.Razor.dll
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.WebPages.dll
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.WebPages.Razor.dll
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\EntityFramework.xml
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\EntityFramework.SqlServer.xml
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.Helpers.xml
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.Mvc.xml
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.Razor.xml
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.WebPages.xml
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.WebPages.Razor.xml
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\es\EntityFramework.resources.dll
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\es\System.Web.Providers.resources.dll
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\obj\Debug\MVC3_CSharp.dll
+C:\Users\srodriguez\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\obj\Debug\MVC3_CSharp.pdb
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\MVC3_CSharp.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\MVC3_CSharp.pdb
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\DynamicData.EFCodeFirstProvider.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\EntityFramework.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\EntityFramework.SqlServer.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.Helpers.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.Mvc.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.Providers.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.Razor.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.WebPages.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\EntityFramework.xml
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\EntityFramework.SqlServer.xml
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.Helpers.xml
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.Mvc.xml
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.Razor.xml
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.WebPages.xml
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\es\EntityFramework.resources.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\bin\es\System.Web.Providers.resources.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\obj\Debug\MVC3_CSharp.dll
+C:\Users\Santiago\SkyDrive\DeveLearning\11) Desarrollo Web y Arq. de Software\MVC\MVC3 C# DB\MVC3_CSharp\obj\Debug\MVC3_CSharp.pdb
