@@ -16,3 +16,14 @@ C:\Users\SantiRodriguez\OneDrive\DeveLearning\C#\7) Estructuras de Datos C#\Algo
 C:\Users\SantiRodriguez\OneDrive\DeveLearning\C#\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.Ordenamientos_Frm.resources
 C:\Users\SantiRodriguez\OneDrive\DeveLearning\C#\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.Properties.Resources.resources
 C:\Users\SantiRodriguez\OneDrive\DeveLearning\C#\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.csproj.GenerateResource.Cache
+C:\Proyectos\ProfeSantiago\dotNetCore\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\bin\Debug\Algoritmos_Ordenamiento.exe.config
+C:\Proyectos\ProfeSantiago\dotNetCore\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\bin\Debug\Algoritmos_Ordenamiento.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\bin\Debug\Algoritmos_Ordenamiento.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.csproj.AssemblyReference.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.Ordenamientos_Frm.resources
+C:\Proyectos\ProfeSantiago\dotNetCore\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.Properties.Resources.resources
+C:\Proyectos\ProfeSantiago\dotNetCore\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.csproj.GenerateResource.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\7) Estructuras de Datos C#\Algoritmos_Ordenamiento C#\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.pdb

@@ -9,3 +9,14 @@ C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\Inte
 C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\InterfasesCSharp\InterfasesCSharp\obj\Debug\InterfasesCSharp.exe
 C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\InterfasesCSharp\InterfasesCSharp\obj\Debug\InterfasesCSharp.pdb
 C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\InterfasesCSharp\InterfasesCSharp\obj\Debug\InterfasesCSharp.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\InterfasesCSharp\InterfasesCSharp\bin\Debug\InterfasesCSharp.exe.config
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\InterfasesCSharp\InterfasesCSharp\bin\Debug\InterfasesCSharp.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\InterfasesCSharp\InterfasesCSharp\bin\Debug\InterfasesCSharp.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\InterfasesCSharp\InterfasesCSharp\obj\Debug\InterfasesCSharp.csproj.AssemblyReference.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\InterfasesCSharp\InterfasesCSharp\obj\Debug\InterfasesCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\InterfasesCSharp\InterfasesCSharp\obj\Debug\InterfasesCSharp.elForm.resources
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\InterfasesCSharp\InterfasesCSharp\obj\Debug\InterfasesCSharp.Properties.Resources.resources
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\InterfasesCSharp\InterfasesCSharp\obj\Debug\InterfasesCSharp.csproj.GenerateResource.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\InterfasesCSharp\InterfasesCSharp\obj\Debug\InterfasesCSharp.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\InterfasesCSharp\InterfasesCSharp\obj\Debug\InterfasesCSharp.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\InterfasesCSharp\InterfasesCSharp\obj\Debug\InterfasesCSharp.pdb

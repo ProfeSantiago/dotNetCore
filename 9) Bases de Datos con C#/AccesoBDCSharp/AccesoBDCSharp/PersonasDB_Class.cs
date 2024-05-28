@@ -12,8 +12,8 @@ namespace AccesoBDCSharp
     {
         private SqlCommand InicializaSQLCommand(string NombreSP)
         {
-            string elConnectionString = 
-                "Data Source=TELETRAN\\SQLEXPRESS;Initial Catalog=Agenda_DB;Integrated Security=True;MultipleActiveResultSets=True";
+            string elConnectionString =
+                "Data Source=localhost;Initial Catalog=PersonasDB;Integrated Security=True;MultipleActiveResultSets=True";
 
             SqlConnection sqlConnection = new SqlConnection(elConnectionString);
             SqlCommand elSQLCommand = new SqlCommand(NombreSP, sqlConnection);

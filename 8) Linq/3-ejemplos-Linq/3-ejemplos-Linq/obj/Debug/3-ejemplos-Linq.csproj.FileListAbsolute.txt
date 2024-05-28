@@ -11,3 +11,11 @@ C:/Users/Santiago/OneDrive/DeveLearning/C#/10) Linq/3-ejemplos-Linq/3-ejemplos-L
 /Users/santiagoRP1979/OneDrive/DeveLearning/C#/10) Linq/3-ejemplos-Linq/3-ejemplos-Linq/obj/Debug/3-ejemplos-Linq.csproj.CoreCompileInputs.cache
 /Users/santiagoRP1979/OneDrive/DeveLearning/C#/10) Linq/3-ejemplos-Linq/3-ejemplos-Linq/obj/Debug/3-ejemplos-Linq.exe
 /Users/santiagoRP1979/OneDrive/DeveLearning/C#/10) Linq/3-ejemplos-Linq/3-ejemplos-Linq/obj/Debug/3-ejemplos-Linq.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\3-ejemplos-Linq\3-ejemplos-Linq\bin\Debug\3-ejemplos-Linq.exe.config
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\3-ejemplos-Linq\3-ejemplos-Linq\bin\Debug\3-ejemplos-Linq.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\3-ejemplos-Linq\3-ejemplos-Linq\bin\Debug\3-ejemplos-Linq.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\3-ejemplos-Linq\3-ejemplos-Linq\obj\Debug\3-ejemplos-Linq.csproj.AssemblyReference.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\3-ejemplos-Linq\3-ejemplos-Linq\obj\Debug\3-ejemplos-Linq.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\3-ejemplos-Linq\3-ejemplos-Linq\obj\Debug\3-ejemplos-Linq.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\3-ejemplos-Linq\3-ejemplos-Linq\obj\Debug\3-ejemplos-Linq.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\3-ejemplos-Linq\3-ejemplos-Linq\obj\Debug\3-ejemplos-Linq.pdb

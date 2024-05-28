@@ -25,3 +25,14 @@ C:\Users\Santiago\OneDrive\DeveLearning\C#\4) Ciclos & Arreglos  C#\Ciclos C#\Ar
 C:\Users\Santiago\OneDrive\DeveLearning\C#\4) Ciclos & Arreglos  C#\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
 C:\Users\Santiago\OneDrive\DeveLearning\C#\4) Ciclos & Arreglos  C#\Arreglos\Arreglos\obj\Debug\Arreglos.exe
 C:\Users\Santiago\OneDrive\DeveLearning\C#\4) Ciclos & Arreglos  C#\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\4) Ciclos & Arreglos  C#\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Proyectos\ProfeSantiago\dotNetCore\4) Ciclos & Arreglos  C#\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\4) Ciclos & Arreglos  C#\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\4) Ciclos & Arreglos  C#\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.AssemblyReference.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\4) Ciclos & Arreglos  C#\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\4) Ciclos & Arreglos  C#\Arreglos\Arreglos\obj\Debug\Arreglos.Arreglos_Frm.resources
+C:\Proyectos\ProfeSantiago\dotNetCore\4) Ciclos & Arreglos  C#\Arreglos\Arreglos\obj\Debug\Arreglos.Properties.Resources.resources
+C:\Proyectos\ProfeSantiago\dotNetCore\4) Ciclos & Arreglos  C#\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.GenerateResource.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\4) Ciclos & Arreglos  C#\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\4) Ciclos & Arreglos  C#\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\4) Ciclos & Arreglos  C#\Arreglos\Arreglos\obj\Debug\Arreglos.pdb

@@ -1,0 +1,15 @@
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\Colecciones\Colecciones_CSharp\bin\Debug\net8.0\Colecciones_CSharp.exe
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\Colecciones\Colecciones_CSharp\bin\Debug\net8.0\Colecciones_CSharp.deps.json
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\Colecciones\Colecciones_CSharp\bin\Debug\net8.0\Colecciones_CSharp.runtimeconfig.json
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\Colecciones\Colecciones_CSharp\bin\Debug\net8.0\Colecciones_CSharp.dll
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\Colecciones\Colecciones_CSharp\bin\Debug\net8.0\Colecciones_CSharp.pdb
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\Colecciones\Colecciones_CSharp\obj\Debug\net8.0\Colecciones_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\Colecciones\Colecciones_CSharp\obj\Debug\net8.0\Colecciones_CSharp.AssemblyInfoInputs.cache
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\Colecciones\Colecciones_CSharp\obj\Debug\net8.0\Colecciones_CSharp.AssemblyInfo.cs
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\Colecciones\Colecciones_CSharp\obj\Debug\net8.0\Colecciones_CSharp.csproj.CoreCompileInputs.cache
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\Colecciones\Colecciones_CSharp\obj\Debug\net8.0\Colecciones_CSharp.sourcelink.json
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\Colecciones\Colecciones_CSharp\obj\Debug\net8.0\Colecciones_CSharp.dll
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\Colecciones\Colecciones_CSharp\obj\Debug\net8.0\refint\Colecciones_CSharp.dll
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\Colecciones\Colecciones_CSharp\obj\Debug\net8.0\Colecciones_CSharp.pdb
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\Colecciones\Colecciones_CSharp\obj\Debug\net8.0\Colecciones_CSharp.genruntimeconfig.cache
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\Colecciones\Colecciones_CSharp\obj\Debug\net8.0\ref\Colecciones_CSharp.dll

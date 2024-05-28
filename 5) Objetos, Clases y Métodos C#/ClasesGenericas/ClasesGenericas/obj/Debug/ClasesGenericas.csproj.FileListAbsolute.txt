@@ -4,3 +4,14 @@ C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\Clas
 C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.Genericas_Frm.resources
 C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.Properties.Resources.resources
 C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.csproj.GenerateResource.Cache
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.exe.config
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.csproj.AssemblyReference.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.Genericas_Frm.resources
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.Properties.Resources.resources
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.csproj.GenerateResource.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.pdb

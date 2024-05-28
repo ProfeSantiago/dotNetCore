@@ -10,7 +10,7 @@ namespace ApiMiniCRUD.Models
     public class ClasePersonaDB
     {
 
-        string connectionString = "Data Source=(LocalDb)\\MSSQLLocalDB;Initial Catalog=PersonasDB;Integrated Security=True;MultipleActiveResultSets=True";
+        string connectionString = "Data Source=localhost;Initial Catalog=PersonasDB;Integrated Security=True;MultipleActiveResultSets=True";
  
         public IEnumerable<ModeloPersonas> Cons_Personas()
         {

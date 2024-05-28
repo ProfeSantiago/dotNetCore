@@ -35,17 +35,20 @@
             // elGrid
             // 
             this.elGrid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.elGrid.Location = new System.Drawing.Point(12, 12);
+            this.elGrid.Location = new System.Drawing.Point(17, 15);
+            this.elGrid.Margin = new System.Windows.Forms.Padding(4);
             this.elGrid.Name = "elGrid";
-            this.elGrid.Size = new System.Drawing.Size(544, 170);
-            this.elGrid.TabIndex = 0;
+            this.elGrid.RowHeadersWidth = 51;
+            this.elGrid.Size = new System.Drawing.Size(725, 209);
+            this.elGrid.TabIndex = 1;
             // 
             // PersonasDB_Frm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(569, 194);
+            this.ClientSize = new System.Drawing.Size(759, 239);
             this.Controls.Add(this.elGrid);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "PersonasDB_Frm";
             this.Text = "Acceso a BD con SQL Server";
             this.Load += new System.EventHandler(this.PersonasDB_Frm_Load);

@@ -12,3 +12,11 @@ C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\Intro2Linq\Intro2Linq\obj\De
 C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\Intro2Linq\Intro2Linq\obj\Debug\Intro2Linq.csproj.CoreCompileInputs.cache
 C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\Intro2Linq\Intro2Linq\obj\Debug\Intro2Linq.exe
 C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\Intro2Linq\Intro2Linq\obj\Debug\Intro2Linq.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\Intro2Linq\Intro2Linq\bin\Debug\Intro2Linq.exe.config
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\Intro2Linq\Intro2Linq\bin\Debug\Intro2Linq.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\Intro2Linq\Intro2Linq\bin\Debug\Intro2Linq.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\Intro2Linq\Intro2Linq\obj\Debug\Intro2Linq.csproj.AssemblyReference.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\Intro2Linq\Intro2Linq\obj\Debug\Intro2Linq.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\Intro2Linq\Intro2Linq\obj\Debug\Intro2Linq.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\Intro2Linq\Intro2Linq\obj\Debug\Intro2Linq.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\Intro2Linq\Intro2Linq\obj\Debug\Intro2Linq.pdb

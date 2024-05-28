@@ -9,3 +9,14 @@ C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\List
 C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.pdb
 C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.csprojResolveAssemblyReference.cache
 C:\Users\Santiago\OneDrive\DeveLearning\C#\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\bin\Debug\ListaClases.exe.config
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\bin\Debug\ListaClases.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\bin\Debug\ListaClases.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.csproj.AssemblyReference.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.ListaPersonas_Frm.resources
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.Properties.Resources.resources
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.csproj.GenerateResource.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.pdb

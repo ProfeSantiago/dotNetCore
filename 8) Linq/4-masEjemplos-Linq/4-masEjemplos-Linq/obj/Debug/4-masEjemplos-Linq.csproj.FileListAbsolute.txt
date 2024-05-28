@@ -11,3 +11,11 @@ C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\4-masEjemplos-Linq\4-masEjem
 C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\4-masEjemplos-Linq\4-masEjemplos-Linq\obj\Debug\4-masEjemplos-Linq.exe
 C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\4-masEjemplos-Linq\4-masEjemplos-Linq\obj\Debug\4-masEjemplos-Linq.pdb
 C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\4-masEjemplos-Linq\4-masEjemplos-Linq\obj\Debug\4-masEjemplos-Linq.csprojResolveAssemblyReference.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\4-masEjemplos-Linq\4-masEjemplos-Linq\bin\Debug\4-masEjemplos-Linq.exe.config
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\4-masEjemplos-Linq\4-masEjemplos-Linq\bin\Debug\4-masEjemplos-Linq.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\4-masEjemplos-Linq\4-masEjemplos-Linq\bin\Debug\4-masEjemplos-Linq.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\4-masEjemplos-Linq\4-masEjemplos-Linq\obj\Debug\4-masEjemplos-Linq.csproj.AssemblyReference.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\4-masEjemplos-Linq\4-masEjemplos-Linq\obj\Debug\4-masEjemplos-Linq.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\4-masEjemplos-Linq\4-masEjemplos-Linq\obj\Debug\4-masEjemplos-Linq.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\4-masEjemplos-Linq\4-masEjemplos-Linq\obj\Debug\4-masEjemplos-Linq.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\4-masEjemplos-Linq\4-masEjemplos-Linq\obj\Debug\4-masEjemplos-Linq.pdb

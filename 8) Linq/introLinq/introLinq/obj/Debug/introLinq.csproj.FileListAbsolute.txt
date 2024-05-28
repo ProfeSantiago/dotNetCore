@@ -5,3 +5,11 @@ C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\introLinq\introLinq\obj\Debu
 C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\introLinq\introLinq\obj\Debug\introLinq.csproj.CoreCompileInputs.cache
 C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\introLinq\introLinq\obj\Debug\introLinq.exe
 C:\Users\Santiago\OneDrive\DeveLearning\C#\10) Linq\introLinq\introLinq\obj\Debug\introLinq.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\introLinq\introLinq\bin\Debug\introLinq.exe.config
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\introLinq\introLinq\bin\Debug\introLinq.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\introLinq\introLinq\bin\Debug\introLinq.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\introLinq\introLinq\obj\Debug\introLinq.csproj.AssemblyReference.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\introLinq\introLinq\obj\Debug\introLinq.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\introLinq\introLinq\obj\Debug\introLinq.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\introLinq\introLinq\obj\Debug\introLinq.exe
+C:\Proyectos\ProfeSantiago\dotNetCore\8) Linq\introLinq\introLinq\obj\Debug\introLinq.pdb

@@ -12,3 +12,21 @@ C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api\ApiMiniCRUD\A
 C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api\ApiMiniCRUD\ApiMiniCRUD\obj\Debug\netcoreapp2.1\ApiMiniCRUD.dll
 C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api\ApiMiniCRUD\ApiMiniCRUD\obj\Debug\netcoreapp2.1\ApiMiniCRUD.pdb
 C:\Users\Santiago\OneDrive\DeveLearning\C# .Net Core\.Net Core Api\ApiMiniCRUD\ApiMiniCRUD\obj\Debug\netcoreapp2.1\ApiMiniCRUD.csprojAssemblyReference.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\2) .Net Core Api\ApiMiniCRUD\ApiMiniCRUD\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Proyectos\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\2) .Net Core Api\ApiMiniCRUD\ApiMiniCRUD\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Proyectos\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\2) .Net Core Api\ApiMiniCRUD\ApiMiniCRUD\bin\Debug\netcoreapp2.1\ApiMiniCRUD.deps.json
+C:\Proyectos\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\2) .Net Core Api\ApiMiniCRUD\ApiMiniCRUD\bin\Debug\netcoreapp2.1\ApiMiniCRUD.runtimeconfig.json
+C:\Proyectos\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\2) .Net Core Api\ApiMiniCRUD\ApiMiniCRUD\bin\Debug\netcoreapp2.1\ApiMiniCRUD.runtimeconfig.dev.json
+C:\Proyectos\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\2) .Net Core Api\ApiMiniCRUD\ApiMiniCRUD\bin\Debug\netcoreapp2.1\ApiMiniCRUD.dll
+C:\Proyectos\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\2) .Net Core Api\ApiMiniCRUD\ApiMiniCRUD\bin\Debug\netcoreapp2.1\ApiMiniCRUD.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\2) .Net Core Api\ApiMiniCRUD\ApiMiniCRUD\obj\Debug\netcoreapp2.1\ApiMiniCRUD.csproj.AssemblyReference.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\2) .Net Core Api\ApiMiniCRUD\ApiMiniCRUD\obj\Debug\netcoreapp2.1\ApiMiniCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\2) .Net Core Api\ApiMiniCRUD\ApiMiniCRUD\obj\Debug\netcoreapp2.1\ApiMiniCRUD.AssemblyInfoInputs.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\2) .Net Core Api\ApiMiniCRUD\ApiMiniCRUD\obj\Debug\netcoreapp2.1\ApiMiniCRUD.AssemblyInfo.cs
+C:\Proyectos\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\2) .Net Core Api\ApiMiniCRUD\ApiMiniCRUD\obj\Debug\netcoreapp2.1\ApiMiniCRUD.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\2) .Net Core Api\ApiMiniCRUD\ApiMiniCRUD\obj\Debug\netcoreapp2.1\ApiMiniCRUD.RazorAssemblyInfo.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\2) .Net Core Api\ApiMiniCRUD\ApiMiniCRUD\obj\Debug\netcoreapp2.1\ApiMiniCRUD.RazorAssemblyInfo.cs
+C:\Proyectos\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\2) .Net Core Api\ApiMiniCRUD\ApiMiniCRUD\obj\Debug\netcoreapp2.1\ApiMiniCRUD.RazorTargetAssemblyInfo.cache
+C:\Proyectos\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\2) .Net Core Api\ApiMiniCRUD\ApiMiniCRUD\obj\Debug\netcoreapp2.1\ApiMiniCRUD.dll
+C:\Proyectos\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\2) .Net Core Api\ApiMiniCRUD\ApiMiniCRUD\obj\Debug\netcoreapp2.1\ApiMiniCRUD.pdb
+C:\Proyectos\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\2) .Net Core Api\ApiMiniCRUD\ApiMiniCRUD\obj\Debug\netcoreapp2.1\ApiMiniCRUD.genruntimeconfig.cache
