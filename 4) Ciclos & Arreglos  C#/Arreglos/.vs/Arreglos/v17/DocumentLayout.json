@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProfeSantiago\\dotNetCore\\4) Ciclos \u0026 Arreglos  C#\\Arreglos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85E2A68E-2006-4E9B-8F6B-AEC010A13732}|Arreglos\\Arreglos.csproj|D:\\ProfeSantiago\\dotNetCore\\4) Ciclos \u0026 Arreglos  C#\\Arreglos\\arreglos\\arreglos_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85E2A68E-2006-4E9B-8F6B-AEC010A13732}|Arreglos\\Arreglos.csproj|solutionrelative:arreglos\\arreglos_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E2A68E-2006-4E9B-8F6B-AEC010A13732}|Arreglos\\Arreglos.csproj|d:\\profesantiago\\dotnetcore\\4) ciclos \u0026 arreglos  c#\\arreglos\\arreglos\\arreglos_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E2A68E-2006-4E9B-8F6B-AEC010A13732}|Arreglos\\Arreglos.csproj|solutionrelative:arreglos\\arreglos_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arreglos_Frm.cs",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\4) Ciclos \u0026 Arreglos  C#\\Arreglos\\Arreglos\\Arreglos_Frm.cs",
+              "RelativeDocumentMoniker": "Arreglos\\Arreglos_Frm.cs",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\4) Ciclos \u0026 Arreglos  C#\\Arreglos\\Arreglos\\Arreglos_Frm.cs",
+              "RelativeToolTip": "Arreglos\\Arreglos_Frm.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T04:59:34.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arreglos_Frm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\4) Ciclos \u0026 Arreglos  C#\\Arreglos\\Arreglos\\Arreglos_Frm.cs",
+              "RelativeDocumentMoniker": "Arreglos\\Arreglos_Frm.cs",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\4) Ciclos \u0026 Arreglos  C#\\Arreglos\\Arreglos\\Arreglos_Frm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Arreglos\\Arreglos_Frm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T04:59:34.951Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

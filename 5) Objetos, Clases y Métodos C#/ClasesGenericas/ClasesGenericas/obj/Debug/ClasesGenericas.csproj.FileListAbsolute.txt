@@ -15,3 +15,13 @@ C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGen
 C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.csproj.CoreCompileInputs.cache
 C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.exe
 C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.pdb
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.exe.config
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.exe
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.pdb
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.csproj.AssemblyReference.cache
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.Genericas_Frm.resources
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.Properties.Resources.resources
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.csproj.GenerateResource.cache
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.csproj.CoreCompileInputs.cache
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.exe
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.pdb

@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\Intro EF CodeFirst en MVC4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{681E710A-D643-4DDD-8C86-00FE5BD2AD29}|EF_CodeFirst_MVC4\\EF_CodeFirst_MVC4.csproj|d:\\profesantiago\\dotnetcore\\12) entity framework\\intro ef codefirst en mvc4\\ef_codefirst_mvc4\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{681E710A-D643-4DDD-8C86-00FE5BD2AD29}|EF_CodeFirst_MVC4\\EF_CodeFirst_MVC4.csproj|solutionrelative:ef_codefirst_mvc4\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{681E710A-D643-4DDD-8C86-00FE5BD2AD29}|EF_CodeFirst_MVC4\\EF_CodeFirst_MVC4.csproj|d:\\profesantiago\\dotnetcore\\12) entity framework\\intro ef codefirst en mvc4\\ef_codefirst_mvc4\\models\\personadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681E710A-D643-4DDD-8C86-00FE5BD2AD29}|EF_CodeFirst_MVC4\\EF_CodeFirst_MVC4.csproj|solutionrelative:ef_codefirst_mvc4\\models\\personadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{681E710A-D643-4DDD-8C86-00FE5BD2AD29}|EF_CodeFirst_MVC4\\EF_CodeFirst_MVC4.csproj|d:\\profesantiago\\dotnetcore\\12) entity framework\\intro ef codefirst en mvc4\\ef_codefirst_mvc4\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{681E710A-D643-4DDD-8C86-00FE5BD2AD29}|EF_CodeFirst_MVC4\\EF_CodeFirst_MVC4.csproj|solutionrelative:ef_codefirst_mvc4\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681E710A-D643-4DDD-8C86-00FE5BD2AD29}|EF_CodeFirst_MVC4\\EF_CodeFirst_MVC4.csproj|d:\\profesantiago\\dotnetcore\\12) entity framework\\intro ef codefirst en mvc4\\ef_codefirst_mvc4\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681E710A-D643-4DDD-8C86-00FE5BD2AD29}|EF_CodeFirst_MVC4\\EF_CodeFirst_MVC4.csproj|solutionrelative:ef_codefirst_mvc4\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681E710A-D643-4DDD-8C86-00FE5BD2AD29}|EF_CodeFirst_MVC4\\EF_CodeFirst_MVC4.csproj|d:\\profesantiago\\dotnetcore\\12) entity framework\\intro ef codefirst en mvc4\\ef_codefirst_mvc4\\views\\personas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{681E710A-D643-4DDD-8C86-00FE5BD2AD29}|EF_CodeFirst_MVC4\\EF_CodeFirst_MVC4.csproj|solutionrelative:ef_codefirst_mvc4\\views\\personas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681E710A-D643-4DDD-8C86-00FE5BD2AD29}|EF_CodeFirst_MVC4\\EF_CodeFirst_MVC4.csproj|d:\\profesantiago\\dotnetcore\\12) entity framework\\intro ef codefirst en mvc4\\ef_codefirst_mvc4\\views\\personas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{681E710A-D643-4DDD-8C86-00FE5BD2AD29}|EF_CodeFirst_MVC4\\EF_CodeFirst_MVC4.csproj|solutionrelative:ef_codefirst_mvc4\\views\\personas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681E710A-D643-4DDD-8C86-00FE5BD2AD29}|EF_CodeFirst_MVC4\\EF_CodeFirst_MVC4.csproj|d:\\profesantiago\\dotnetcore\\12) entity framework\\intro ef codefirst en mvc4\\ef_codefirst_mvc4\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681E710A-D643-4DDD-8C86-00FE5BD2AD29}|EF_CodeFirst_MVC4\\EF_CodeFirst_MVC4.csproj|solutionrelative:ef_codefirst_mvc4\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PersonasController.cs",
-              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\Intro EF CodeFirst en MVC4\\EF_CodeFirst_MVC4\\Controllers\\PersonasController.cs",
-              "RelativeDocumentMoniker": "EF_CodeFirst_MVC4\\Controllers\\PersonasController.cs",
-              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\Intro EF CodeFirst en MVC4\\EF_CodeFirst_MVC4\\Controllers\\PersonasController.cs",
-              "RelativeToolTip": "EF_CodeFirst_MVC4\\Controllers\\PersonasController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T06:34:06.303Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -41,9 +44,74 @@
               "RelativeDocumentMoniker": "EF_CodeFirst_MVC4\\Web.config",
               "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\Intro EF CodeFirst en MVC4\\EF_CodeFirst_MVC4\\Web.config",
               "RelativeToolTip": "EF_CodeFirst_MVC4\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-28T06:32:40.567Z",
+              "WhenOpened": "2024-05-29T02:52:47.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\Intro EF CodeFirst en MVC4\\EF_CodeFirst_MVC4\\Views\\Personas\\Index.cshtml",
+              "RelativeDocumentMoniker": "EF_CodeFirst_MVC4\\Views\\Personas\\Index.cshtml",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\Intro EF CodeFirst en MVC4\\EF_CodeFirst_MVC4\\Views\\Personas\\Index.cshtml",
+              "RelativeToolTip": "EF_CodeFirst_MVC4\\Views\\Personas\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T02:45:10.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\Intro EF CodeFirst en MVC4\\EF_CodeFirst_MVC4\\Views\\Personas\\Create.cshtml",
+              "RelativeDocumentMoniker": "EF_CodeFirst_MVC4\\Views\\Personas\\Create.cshtml",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\Intro EF CodeFirst en MVC4\\EF_CodeFirst_MVC4\\Views\\Personas\\Create.cshtml",
+              "RelativeToolTip": "EF_CodeFirst_MVC4\\Views\\Personas\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T02:43:50.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaDBContext.cs",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\Intro EF CodeFirst en MVC4\\EF_CodeFirst_MVC4\\Models\\PersonaDBContext.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst_MVC4\\Models\\PersonaDBContext.cs",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\Intro EF CodeFirst en MVC4\\EF_CodeFirst_MVC4\\Models\\PersonaDBContext.cs",
+              "RelativeToolTip": "EF_CodeFirst_MVC4\\Models\\PersonaDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:42:10.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\Intro EF CodeFirst en MVC4\\EF_CodeFirst_MVC4\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst_MVC4\\Models\\Persona.cs",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\Intro EF CodeFirst en MVC4\\EF_CodeFirst_MVC4\\Models\\Persona.cs",
+              "RelativeToolTip": "EF_CodeFirst_MVC4\\Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:40:44.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\Intro EF CodeFirst en MVC4\\EF_CodeFirst_MVC4\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst_MVC4\\Controllers\\PersonasController.cs",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\Intro EF CodeFirst en MVC4\\EF_CodeFirst_MVC4\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "EF_CodeFirst_MVC4\\Controllers\\PersonasController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:34:13.551Z",
               "EditorCaption": ""
             }
           ]

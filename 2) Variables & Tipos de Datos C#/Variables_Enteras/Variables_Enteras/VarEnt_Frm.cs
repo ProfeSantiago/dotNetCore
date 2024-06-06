@@ -32,7 +32,7 @@ namespace Variables_Enteras
             A = int.Parse(Num1_Txt.Text);
             B = int.Parse(Num2_Txt.Text);
 
-            //Le asignamos a "C" el resultado de la suma de A+B
+              //Le asignamos a "C" el resultado de la suma de A+B
             C = A + B;
 
             //Mostramos en pantalla el valor de "C"

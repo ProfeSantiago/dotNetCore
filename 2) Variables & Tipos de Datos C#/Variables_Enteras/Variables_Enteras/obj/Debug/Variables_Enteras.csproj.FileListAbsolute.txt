@@ -28,3 +28,13 @@ C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables
 C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.csproj.CoreCompileInputs.cache
 C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.exe
 C:\Proyectos\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.pdb
+D:\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\bin\Debug\Variables_Enteras.exe.config
+D:\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\bin\Debug\Variables_Enteras.exe
+D:\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\bin\Debug\Variables_Enteras.pdb
+D:\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.csproj.AssemblyReference.cache
+D:\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.VarEnt_Frm.resources
+D:\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.Properties.Resources.resources
+D:\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.csproj.GenerateResource.cache
+D:\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.csproj.CoreCompileInputs.cache
+D:\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.exe
+D:\ProfeSantiago\dotNetCore\2) Variables & Tipos de Datos C#\Variables_Enteras\Variables_Enteras\obj\Debug\Variables_Enteras.pdb

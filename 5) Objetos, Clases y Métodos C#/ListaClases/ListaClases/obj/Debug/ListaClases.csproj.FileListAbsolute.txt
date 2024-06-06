@@ -20,3 +20,13 @@ C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClas
 C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.csproj.CoreCompileInputs.cache
 C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.exe
 C:\Proyectos\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.pdb
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\bin\Debug\ListaClases.exe.config
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\bin\Debug\ListaClases.exe
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\bin\Debug\ListaClases.pdb
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.csproj.AssemblyReference.cache
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.ListaPersonas_Frm.resources
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.Properties.Resources.resources
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.csproj.GenerateResource.cache
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.csproj.CoreCompileInputs.cache
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.exe
+D:\ProfeSantiago\dotNetCore\5) Objetos, Clases y Métodos C#\ListaClases\ListaClases\obj\Debug\ListaClases.pdb

@@ -20,8 +20,6 @@ namespace ListaClases
             InitializeComponent();
         }
 
-
-
         private void LlenaTabla()
         {
             ConsultaPersonas_Grid.DataSource = null;
@@ -41,10 +39,6 @@ namespace ListaClases
 
             LlenaTabla();
         }//ListaPersonas_Frm_Load
-
-
-
-
 
 
         private void Guarda_Btn_Click(object sender, EventArgs e)
