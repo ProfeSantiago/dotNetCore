@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\BlazorIntro\\miBlazorApp\\miBlazorApp.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\BlazorIntro\\miBlazorApp\\miBlazorApp.Client\\obj\\Debug\\net8.0\\compressed\\a8btnhx6rr.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\BlazorIntro\\miBlazorApp\\miBlazorApp.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\BlazorIntro\\miBlazorApp\\miBlazorApp.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.miBlazorApp.Client.props",
+      "PackagePath": "build\\miBlazorApp.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.miBlazorApp.Client.props",
+      "PackagePath": "buildMultiTargeting\\miBlazorApp.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.miBlazorApp.Client.props",
+      "PackagePath": "buildTransitive\\miBlazorApp.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.miBlazorApp.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

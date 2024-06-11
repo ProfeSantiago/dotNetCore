@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\Blazor\\BlazorIntro VSCode\\BlazorIntro VSCode.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\Blazor\\BlazorIntro VSCode\\BlazorIntro VSCode.Client\\obj\\Debug\\net8.0\\compressed\\a8btnhx6rr.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\Blazor\\BlazorIntro VSCode\\BlazorIntro VSCode.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\Blazor\\BlazorIntro VSCode\\BlazorIntro VSCode.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorIntro_VSCode.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorIntro_VSCode.Client.props",
+      "PackagePath": "build\\BlazorIntro_VSCode.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorIntro_VSCode.Client.props",
+      "PackagePath": "buildMultiTargeting\\BlazorIntro_VSCode.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorIntro_VSCode.Client.props",
+      "PackagePath": "buildTransitive\\BlazorIntro_VSCode.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,15 @@
+D:\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Consola_VSCode\bin\Debug\net8.0\Consola_VSCode.exe
+D:\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Consola_VSCode\bin\Debug\net8.0\Consola_VSCode.deps.json
+D:\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Consola_VSCode\bin\Debug\net8.0\Consola_VSCode.runtimeconfig.json
+D:\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Consola_VSCode\bin\Debug\net8.0\Consola_VSCode.dll
+D:\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Consola_VSCode\bin\Debug\net8.0\Consola_VSCode.pdb
+D:\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Consola_VSCode\obj\Debug\net8.0\Consola_VSCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Consola_VSCode\obj\Debug\net8.0\Consola_VSCode.AssemblyInfoInputs.cache
+D:\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Consola_VSCode\obj\Debug\net8.0\Consola_VSCode.AssemblyInfo.cs
+D:\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Consola_VSCode\obj\Debug\net8.0\Consola_VSCode.csproj.CoreCompileInputs.cache
+D:\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Consola_VSCode\obj\Debug\net8.0\Consola_VSCode.sourcelink.json
+D:\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Consola_VSCode\obj\Debug\net8.0\Consola_VSCode.dll
+D:\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Consola_VSCode\obj\Debug\net8.0\refint\Consola_VSCode.dll
+D:\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Consola_VSCode\obj\Debug\net8.0\Consola_VSCode.pdb
+D:\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Consola_VSCode\obj\Debug\net8.0\Consola_VSCode.genruntimeconfig.cache
+D:\ProfeSantiago\dotNetCore\1) Entrada & Salida C#\Consola_VSCode\obj\Debug\net8.0\ref\Consola_VSCode.dll

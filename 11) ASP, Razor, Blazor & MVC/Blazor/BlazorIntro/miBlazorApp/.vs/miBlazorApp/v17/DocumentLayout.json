@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor \u0026 MVC\\BlazorIntro\\miBlazorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E589A5E-4816-4D36-A5BA-0DC90615088E}|miBlazorApp\\miBlazorApp.csproj|d:\\profesantiago\\dotnetcore\\11) asp, razor, blazor \u0026 mvc\\blazorintro\\miblazorapp\\miblazorapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E589A5E-4816-4D36-A5BA-0DC90615088E}|miBlazorApp\\miBlazorApp.csproj|solutionrelative:miblazorapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor \u0026 MVC\\BlazorIntro\\miBlazorApp\\miBlazorApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "miBlazorApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor \u0026 MVC\\BlazorIntro\\miBlazorApp\\miBlazorApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "miBlazorApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T17:20:20.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

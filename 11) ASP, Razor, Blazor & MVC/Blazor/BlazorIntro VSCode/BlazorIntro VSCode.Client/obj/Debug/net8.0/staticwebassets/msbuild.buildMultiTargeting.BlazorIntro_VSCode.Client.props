@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlazorIntro_VSCode.Client.props" />
+</Project>
