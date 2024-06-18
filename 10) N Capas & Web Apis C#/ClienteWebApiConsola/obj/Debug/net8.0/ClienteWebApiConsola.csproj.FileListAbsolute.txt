@@ -1,0 +1,15 @@
+D:\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\ClienteWebApiConsola\bin\Debug\net8.0\ClienteWebApiConsola.exe
+D:\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\ClienteWebApiConsola\bin\Debug\net8.0\ClienteWebApiConsola.deps.json
+D:\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\ClienteWebApiConsola\bin\Debug\net8.0\ClienteWebApiConsola.runtimeconfig.json
+D:\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\ClienteWebApiConsola\bin\Debug\net8.0\ClienteWebApiConsola.dll
+D:\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\ClienteWebApiConsola\bin\Debug\net8.0\ClienteWebApiConsola.pdb
+D:\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\ClienteWebApiConsola\obj\Debug\net8.0\ClienteWebApiConsola.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\ClienteWebApiConsola\obj\Debug\net8.0\ClienteWebApiConsola.AssemblyInfoInputs.cache
+D:\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\ClienteWebApiConsola\obj\Debug\net8.0\ClienteWebApiConsola.AssemblyInfo.cs
+D:\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\ClienteWebApiConsola\obj\Debug\net8.0\ClienteWebApiConsola.csproj.CoreCompileInputs.cache
+D:\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\ClienteWebApiConsola\obj\Debug\net8.0\ClienteWebApiConsola.sourcelink.json
+D:\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\ClienteWebApiConsola\obj\Debug\net8.0\ClienteWebApiConsola.dll
+D:\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\ClienteWebApiConsola\obj\Debug\net8.0\refint\ClienteWebApiConsola.dll
+D:\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\ClienteWebApiConsola\obj\Debug\net8.0\ClienteWebApiConsola.pdb
+D:\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\ClienteWebApiConsola\obj\Debug\net8.0\ClienteWebApiConsola.genruntimeconfig.cache
+D:\ProfeSantiago\dotNetCore\10) N Capas & Web Apis C#\ClienteWebApiConsola\obj\Debug\net8.0\ref\ClienteWebApiConsola.dll

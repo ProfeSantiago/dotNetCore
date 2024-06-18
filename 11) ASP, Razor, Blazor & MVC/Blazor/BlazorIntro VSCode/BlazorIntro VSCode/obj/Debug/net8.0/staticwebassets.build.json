@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vbHuwPvBO+zQnFEr1uLSpOJB7D0cC44hjqxkQpBksdc=",
+  "Hash": "TP6EwW7xP8AiK5+1A2CYqmSiqUPgXLk2Q/RIJr1APlM=",
   "Source": "BlazorIntro_VSCode",
   "BasePath": "_content/BlazorIntro_VSCode",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "BlazorIntro_VSCode.Client",
       "GetPublishAssetsTargets": "ComputeFilesToPublish;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "_PublishingBlazorWasmProject=true;BuildProjectReferences=false;ResolveAssemblyReferencesFindRelatedSatellites=true",
+      "AdditionalPublishProperties": "_PublishingBlazorWasmProject=true;BuildProjectReferences=false;ResolveAssemblyReferencesFindRelatedSatellites=true;Configuration=Debug;Platform=AnyCPU",
       "AdditionalPublishPropertiesToRemove": "NoBuild;RuntimeIdentifier;WebPublishProfileFile;TargetFramework",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalBuildPropertiesToRemove": "RuntimeIdentifier;SelfContained;WebPublishProfileFile;TargetFramework"
     }
   ],
