@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProfeSantiago\\dotNetCore\\10) N Capas \u0026 Web Apis C#\\WebApiSimple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{674FAEAD-38B9-4E42-8440-7B1D1C967F2D}|WebApiSimple.csproj|d:\\profesantiago\\dotnetcore\\10) n capas \u0026 web apis c#\\webapisimple\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674FAEAD-38B9-4E42-8440-7B1D1C967F2D}|WebApiSimple.csproj|solutionrelative:controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674FAEAD-38B9-4E42-8440-7B1D1C967F2D}|WebApiSimple.csproj|d:\\profesantiago\\dotnetcore\\10) n capas \u0026 web apis c#\\webapisimple\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674FAEAD-38B9-4E42-8440-7B1D1C967F2D}|WebApiSimple.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674FAEAD-38B9-4E42-8440-7B1D1C967F2D}|WebApiSimple.csproj|d:\\profesantiago\\dotnetcore\\10) n capas \u0026 web apis c#\\webapisimple\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674FAEAD-38B9-4E42-8440-7B1D1C967F2D}|WebApiSimple.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\10) N Capas \u0026 Web Apis C#\\WebApiSimple\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\10) N Capas \u0026 Web Apis C#\\WebApiSimple\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T04:47:47.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\10) N Capas \u0026 Web Apis C#\\WebApiSimple\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonaController.cs",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\10) N Capas \u0026 Web Apis C#\\WebApiSimple\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "Controllers\\PersonaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T04:46:25.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\10) N Capas \u0026 Web Apis C#\\WebApiSimple\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Models\\Persona.cs",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\10) N Capas \u0026 Web Apis C#\\WebApiSimple\\Models\\Persona.cs",
+              "RelativeToolTip": "Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T04:44:46.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

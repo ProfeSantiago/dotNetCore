@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProfeSantiago\\dotNetCore\\10) N Capas \u0026 Web Apis C#\\.Net Core Api\\ApiMiniCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C743DEAC-7794-4E56-A2C0-7C40173B5826}|ApiMiniCRUD\\ApiMiniCRUD.csproj|d:\\profesantiago\\dotnetcore\\10) n capas \u0026 web apis c#\\.net core api\\apiminicrud\\apiminicrud\\models\\modelopersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C743DEAC-7794-4E56-A2C0-7C40173B5826}|ApiMiniCRUD\\ApiMiniCRUD.csproj|solutionrelative:apiminicrud\\models\\modelopersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C743DEAC-7794-4E56-A2C0-7C40173B5826}|ApiMiniCRUD\\ApiMiniCRUD.csproj|d:\\profesantiago\\dotnetcore\\10) n capas \u0026 web apis c#\\.net core api\\apiminicrud\\apiminicrud\\models\\clasepersonadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C743DEAC-7794-4E56-A2C0-7C40173B5826}|ApiMiniCRUD\\ApiMiniCRUD.csproj|solutionrelative:apiminicrud\\models\\clasepersonadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C743DEAC-7794-4E56-A2C0-7C40173B5826}|ApiMiniCRUD\\ApiMiniCRUD.csproj|d:\\profesantiago\\dotnetcore\\10) n capas \u0026 web apis c#\\.net core api\\apiminicrud\\apiminicrud\\apiminicrud.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C743DEAC-7794-4E56-A2C0-7C40173B5826}|ApiMiniCRUD\\ApiMiniCRUD.csproj|solutionrelative:apiminicrud\\apiminicrud.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModeloPersonas.cs",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\10) N Capas \u0026 Web Apis C#\\.Net Core Api\\ApiMiniCRUD\\ApiMiniCRUD\\Models\\ModeloPersonas.cs",
+              "RelativeDocumentMoniker": "ApiMiniCRUD\\Models\\ModeloPersonas.cs",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\10) N Capas \u0026 Web Apis C#\\.Net Core Api\\ApiMiniCRUD\\ApiMiniCRUD\\Models\\ModeloPersonas.cs",
+              "RelativeToolTip": "ApiMiniCRUD\\Models\\ModeloPersonas.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:56:23.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClasePersonaDB.cs",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\10) N Capas \u0026 Web Apis C#\\.Net Core Api\\ApiMiniCRUD\\ApiMiniCRUD\\Models\\ClasePersonaDB.cs",
+              "RelativeDocumentMoniker": "ApiMiniCRUD\\Models\\ClasePersonaDB.cs",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\10) N Capas \u0026 Web Apis C#\\.Net Core Api\\ApiMiniCRUD\\ApiMiniCRUD\\Models\\ClasePersonaDB.cs",
+              "RelativeToolTip": "ApiMiniCRUD\\Models\\ClasePersonaDB.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:52:59.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiMiniCRUD",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\10) N Capas \u0026 Web Apis C#\\.Net Core Api\\ApiMiniCRUD\\ApiMiniCRUD\\ApiMiniCRUD.csproj",
+              "RelativeDocumentMoniker": "ApiMiniCRUD\\ApiMiniCRUD.csproj",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\10) N Capas \u0026 Web Apis C#\\.Net Core Api\\ApiMiniCRUD\\ApiMiniCRUD\\ApiMiniCRUD.csproj",
+              "RelativeToolTip": "ApiMiniCRUD\\ApiMiniCRUD.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-18T03:51:11.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,7 @@
-﻿// Api que vamos a llamar:
+﻿//---------------------------------------------
+// Api que vamos a llamar:
 // https://jsonplaceholder.typicode.com/posts
-//
+//---------------------------------------------
 namespace WebApiClientConsoleParse
 {
     class Program
