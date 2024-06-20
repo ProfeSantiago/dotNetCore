@@ -11,7 +11,7 @@ namespace WebApiClientConsoleParse
             using (var client = new HttpClient())
             {
                 client.BaseAddress = new Uri("https://jsonplaceholder.typicode.com/");
-                //HTTP GET
+                
                 var responseTask = client.GetAsync("posts");
                 responseTask.Wait();
 

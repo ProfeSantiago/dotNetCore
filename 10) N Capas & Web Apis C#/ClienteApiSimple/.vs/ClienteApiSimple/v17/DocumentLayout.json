@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{CB08B06D-549A-4765-B9A0-64A262100B42}|ClienteApiSimple.csproj|d:\\profesantiago\\dotnetcore\\10) n capas \u0026 web apis c#\\clienteapisimple\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB08B06D-549A-4765-B9A0-64A262100B42}|ClienteApiSimple.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB08B06D-549A-4765-B9A0-64A262100B42}|ClienteApiSimple.csproj|d:\\profesantiago\\dotnetcore\\10) n capas \u0026 web apis c#\\clienteapisimple\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB08B06D-549A-4765-B9A0-64A262100B42}|ClienteApiSimple.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +32,9 @@
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\10) N Capas \u0026 Web Apis C#\\ClienteApiSimple\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-18T05:07:13.039Z",
+              "WhenOpened": "2024-06-19T02:44:29.515Z",
               "EditorCaption": ""
             },
             {
@@ -41,10 +45,21 @@
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\10) N Capas \u0026 Web Apis C#\\ClienteApiSimple\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAApAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T04:57:04.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T02:32:13.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\10) N Capas \u0026 Web Apis C#\\ClienteApiSimple\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Models\\Persona.cs",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\10) N Capas \u0026 Web Apis C#\\ClienteApiSimple\\Models\\Persona.cs",
+              "RelativeToolTip": "Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:31:53.272Z"
             }
           ]
         }

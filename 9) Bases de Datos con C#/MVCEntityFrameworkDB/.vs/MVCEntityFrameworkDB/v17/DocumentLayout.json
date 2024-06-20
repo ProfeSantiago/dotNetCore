@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProfeSantiago\\dotNetCore\\9) Bases de Datos con C#\\MVCEntityFrameworkDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{395B9858-6398-46A4-BD6D-B5BD62AE7C2C}|MVCEntityFrameworkDB.csproj|d:\\profesantiago\\dotnetcore\\9) bases de datos con c#\\mvcentityframeworkdb\\views\\personas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{395B9858-6398-46A4-BD6D-B5BD62AE7C2C}|MVCEntityFrameworkDB.csproj|solutionrelative:views\\personas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\9) Bases de Datos con C#\\MVCEntityFrameworkDB\\Views\\Personas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Personas\\Index.cshtml",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\9) Bases de Datos con C#\\MVCEntityFrameworkDB\\Views\\Personas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Personas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T23:10:25.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

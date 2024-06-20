@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\ProfeSantiago\\dotNetCore\\9) Bases de Datos con C#\\AccesoBDCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84B2C97D-F2C4-4BDE-AC2C-D41E08B50BDF}|AccesoBDCSharp\\AccesoBDCSharp.csproj|d:\\profesantiago\\dotnetcore\\9) bases de datos con c#\\accesobdcsharp\\accesobdcsharp\\personasdb_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84B2C97D-F2C4-4BDE-AC2C-D41E08B50BDF}|AccesoBDCSharp\\AccesoBDCSharp.csproj|D:\\ProfeSantiago\\dotNetCore\\9) Bases de Datos con C#\\AccesoBDCSharp\\accesobdcsharp\\personasdb_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84B2C97D-F2C4-4BDE-AC2C-D41E08B50BDF}|AccesoBDCSharp\\AccesoBDCSharp.csproj|solutionrelative:accesobdcsharp\\personasdb_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B2C97D-F2C4-4BDE-AC2C-D41E08B50BDF}|AccesoBDCSharp\\AccesoBDCSharp.csproj|d:\\profesantiago\\dotnetcore\\9) bases de datos con c#\\accesobdcsharp\\accesobdcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B2C97D-F2C4-4BDE-AC2C-D41E08B50BDF}|AccesoBDCSharp\\AccesoBDCSharp.csproj|solutionrelative:accesobdcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B2C97D-F2C4-4BDE-AC2C-D41E08B50BDF}|AccesoBDCSharp\\AccesoBDCSharp.csproj|d:\\profesantiago\\dotnetcore\\9) bases de datos con c#\\accesobdcsharp\\accesobdcsharp\\personasdb_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B2C97D-F2C4-4BDE-AC2C-D41E08B50BDF}|AccesoBDCSharp\\AccesoBDCSharp.csproj|solutionrelative:accesobdcsharp\\personasdb_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84B2C97D-F2C4-4BDE-AC2C-D41E08B50BDF}|AccesoBDCSharp\\AccesoBDCSharp.csproj|D:\\ProfeSantiago\\dotNetCore\\9) Bases de Datos con C#\\AccesoBDCSharp\\accesobdcsharp\\personasdb_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{84B2C97D-F2C4-4BDE-AC2C-D41E08B50BDF}|AccesoBDCSharp\\AccesoBDCSharp.csproj|solutionrelative:accesobdcsharp\\personasdb_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B2C97D-F2C4-4BDE-AC2C-D41E08B50BDF}|AccesoBDCSharp\\AccesoBDCSharp.csproj|D:\\ProfeSantiago\\dotNetCore\\9) Bases de Datos con C#\\AccesoBDCSharp\\accesobdcsharp\\personasdb_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B2C97D-F2C4-4BDE-AC2C-D41E08B50BDF}|AccesoBDCSharp\\AccesoBDCSharp.csproj|solutionrelative:accesobdcsharp\\personasdb_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\9) Bases de Datos con C#\\AccesoBDCSharp\\AccesoBDCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "AccesoBDCSharp\\Program.cs",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\9) Bases de Datos con C#\\AccesoBDCSharp\\AccesoBDCSharp\\Program.cs",
+              "RelativeToolTip": "AccesoBDCSharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T20:49:18.874Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -32,13 +49,14 @@
               "RelativeDocumentMoniker": "AccesoBDCSharp\\PersonasDB_Frm.cs",
               "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\9) Bases de Datos con C#\\AccesoBDCSharp\\AccesoBDCSharp\\PersonasDB_Frm.cs",
               "RelativeToolTip": "AccesoBDCSharp\\PersonasDB_Frm.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAEwB8AAAAdAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAnwBUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T05:44:56.445Z"
+              "WhenOpened": "2024-05-28T05:44:56.445Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PersonasDB_Frm.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\9) Bases de Datos con C#\\AccesoBDCSharp\\AccesoBDCSharp\\PersonasDB_Frm.cs",
               "RelativeDocumentMoniker": "AccesoBDCSharp\\PersonasDB_Frm.cs",
@@ -55,7 +73,7 @@
               "RelativeDocumentMoniker": "AccesoBDCSharp\\PersonasDB_Class.cs",
               "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\9) Bases de Datos con C#\\AccesoBDCSharp\\AccesoBDCSharp\\PersonasDB_Class.cs",
               "RelativeToolTip": "AccesoBDCSharp\\PersonasDB_Class.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwCsAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T05:35:10.78Z",
               "EditorCaption": ""

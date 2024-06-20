@@ -16,7 +16,7 @@ namespace ClienteApiSimple.Controllers
 {
     public class HomeController : Controller
     {
-        string Baseurl = " http://localhost:5041/";
+        string Baseurl = "http://localhost:5041/";
         public async Task<ActionResult> Index()
         {
             List<Persona> DatosJSON = new List<Persona>();

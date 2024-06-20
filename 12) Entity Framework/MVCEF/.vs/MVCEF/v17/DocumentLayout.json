@@ -1,34 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ProfeSantiago\\dotNetCore\\13) Entity Framework\\MVCEF\\",
+  "WorkspaceRootPath": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\MVCEF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B274DE6-74F6-4F09-8D1A-459B2F6A38B0}|MVCEF\\MVCEF.csproj|d:\\profesantiago\\dotnetcore\\13) entity framework\\mvcef\\mvcef\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5B274DE6-74F6-4F09-8D1A-459B2F6A38B0}|MVCEF\\MVCEF.csproj|solutionrelative:mvcef\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{5B274DE6-74F6-4F09-8D1A-459B2F6A38B0}|MVCEF\\MVCEF.csproj|d:\\profesantiago\\dotnetcore\\12) entity framework\\mvcef\\mvcef\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B274DE6-74F6-4F09-8D1A-459B2F6A38B0}|MVCEF\\MVCEF.csproj|solutionrelative:mvcef\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B274DE6-74F6-4F09-8D1A-459B2F6A38B0}|MVCEF\\MVCEF.csproj|d:\\profesantiago\\dotnetcore\\13) entity framework\\mvcef\\mvcef\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B274DE6-74F6-4F09-8D1A-459B2F6A38B0}|MVCEF\\MVCEF.csproj|solutionrelative:mvcef\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B274DE6-74F6-4F09-8D1A-459B2F6A38B0}|MVCEF\\MVCEF.csproj|d:\\profesantiago\\dotnetcore\\13) entity framework\\mvcef\\mvcef\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{5B274DE6-74F6-4F09-8D1A-459B2F6A38B0}|MVCEF\\MVCEF.csproj|d:\\profesantiago\\dotnetcore\\12) entity framework\\mvcef\\mvcef\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{5B274DE6-74F6-4F09-8D1A-459B2F6A38B0}|MVCEF\\MVCEF.csproj|solutionrelative:mvcef\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B274DE6-74F6-4F09-8D1A-459B2F6A38B0}|MVCEF\\MVCEF.csproj|d:\\profesantiago\\dotnetcore\\13) entity framework\\mvcef\\mvcef\\models\\personascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B274DE6-74F6-4F09-8D1A-459B2F6A38B0}|MVCEF\\MVCEF.csproj|d:\\profesantiago\\dotnetcore\\12) entity framework\\mvcef\\mvcef\\models\\personascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B274DE6-74F6-4F09-8D1A-459B2F6A38B0}|MVCEF\\MVCEF.csproj|solutionrelative:mvcef\\models\\personascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B274DE6-74F6-4F09-8D1A-459B2F6A38B0}|MVCEF\\MVCEF.csproj|d:\\profesantiago\\dotnetcore\\13) entity framework\\mvcef\\mvcef\\applicationinsights.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5B274DE6-74F6-4F09-8D1A-459B2F6A38B0}|MVCEF\\MVCEF.csproj|solutionrelative:mvcef\\applicationinsights.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B274DE6-74F6-4F09-8D1A-459B2F6A38B0}|MVCEF\\MVCEF.csproj|d:\\profesantiago\\dotnetcore\\13) entity framework\\mvcef\\mvcef\\models\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B274DE6-74F6-4F09-8D1A-459B2F6A38B0}|MVCEF\\MVCEF.csproj|d:\\profesantiago\\dotnetcore\\12) entity framework\\mvcef\\mvcef\\models\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B274DE6-74F6-4F09-8D1A-459B2F6A38B0}|MVCEF\\MVCEF.csproj|solutionrelative:mvcef\\models\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B274DE6-74F6-4F09-8D1A-459B2F6A38B0}|MVCEF\\MVCEF.csproj|d:\\profesantiago\\dotnetcore\\13) entity framework\\mvcef\\mvcef\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B274DE6-74F6-4F09-8D1A-459B2F6A38B0}|MVCEF\\MVCEF.csproj|solutionrelative:mvcef\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "packages.config",
-              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\13) Entity Framework\\MVCEF\\MVCEF\\packages.config",
-              "RelativeDocumentMoniker": "MVCEF\\packages.config",
-              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\13) Entity Framework\\MVCEF\\MVCEF\\packages.config",
-              "RelativeToolTip": "MVCEF\\packages.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-28T05:58:27.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\13) Entity Framework\\MVCEF\\MVCEF\\Global.asax.cs",
-              "RelativeDocumentMoniker": "MVCEF\\Global.asax.cs",
-              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\13) Entity Framework\\MVCEF\\MVCEF\\Global.asax.cs",
-              "RelativeToolTip": "MVCEF\\Global.asax.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "PersonasContext.cs",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\MVCEF\\MVCEF\\Models\\PersonasContext.cs",
+              "RelativeDocumentMoniker": "MVCEF\\Models\\PersonasContext.cs",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\MVCEF\\MVCEF\\Models\\PersonasContext.cs",
+              "RelativeToolTip": "MVCEF\\Models\\PersonasContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T05:58:23.928Z",
+              "WhenOpened": "2024-06-20T20:59:30.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationInsights.config",
-              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\13) Entity Framework\\MVCEF\\MVCEF\\ApplicationInsights.config",
-              "RelativeDocumentMoniker": "MVCEF\\ApplicationInsights.config",
-              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\13) Entity Framework\\MVCEF\\MVCEF\\ApplicationInsights.config",
-              "RelativeToolTip": "MVCEF\\ApplicationInsights.config",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-28T05:56:19.253Z",
+              "DocumentIndex": 0,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\MVCEF\\MVCEF\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "MVCEF\\Controllers\\PersonasController.cs",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\MVCEF\\MVCEF\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "MVCEF\\Controllers\\PersonasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T20:54:00.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PersonasContext.cs",
-              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\13) Entity Framework\\MVCEF\\MVCEF\\Models\\PersonasContext.cs",
-              "RelativeDocumentMoniker": "MVCEF\\Models\\PersonasContext.cs",
-              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\13) Entity Framework\\MVCEF\\MVCEF\\Models\\PersonasContext.cs",
-              "RelativeToolTip": "MVCEF\\Models\\PersonasContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T05:56:13.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Personas.cs",
-              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\13) Entity Framework\\MVCEF\\MVCEF\\Models\\Personas.cs",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\MVCEF\\MVCEF\\Models\\Personas.cs",
               "RelativeDocumentMoniker": "MVCEF\\Models\\Personas.cs",
-              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\13) Entity Framework\\MVCEF\\MVCEF\\Models\\Personas.cs",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\MVCEF\\MVCEF\\Models\\Personas.cs",
               "RelativeToolTip": "MVCEF\\Models\\Personas.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T05:56:11.02Z",
+              "WhenOpened": "2024-06-20T20:53:24.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PersonasController.cs",
-              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\13) Entity Framework\\MVCEF\\MVCEF\\Controllers\\PersonasController.cs",
-              "RelativeDocumentMoniker": "MVCEF\\Controllers\\PersonasController.cs",
-              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\13) Entity Framework\\MVCEF\\MVCEF\\Controllers\\PersonasController.cs",
-              "RelativeToolTip": "MVCEF\\Controllers\\PersonasController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T05:56:05.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Web.config",
-              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\13) Entity Framework\\MVCEF\\MVCEF\\Web.config",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\MVCEF\\MVCEF\\Web.config",
               "RelativeDocumentMoniker": "MVCEF\\Web.config",
-              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\13) Entity Framework\\MVCEF\\MVCEF\\Web.config",
-              "RelativeToolTip": "MVCEF\\Web.config",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\12) Entity Framework\\MVCEF\\MVCEF\\Web.config*",
+              "RelativeToolTip": "MVCEF\\Web.config*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-28T05:55:29.862Z",
+              "WhenOpened": "2024-06-20T20:40:41.207Z",
               "EditorCaption": ""
             }
           ]

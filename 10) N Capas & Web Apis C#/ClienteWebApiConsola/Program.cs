@@ -8,6 +8,7 @@ HttpClient client = new()
 
 var response = await client.GetAsync("posts/1");
 var content = await response.Content.ReadAsStringAsync();
+
 Console.WriteLine("Datos del primer Api:");
 Console.WriteLine(content);
 Console.WriteLine();
