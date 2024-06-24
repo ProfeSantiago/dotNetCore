@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimeraMAUIBlazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+0b6a308d1ce2b22671464baffc8e13909439c51e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+1d73920d1e0c2a2f74cbb15eea4aae2b18b6e67c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimeraMAUIBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimeraMAUIBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
