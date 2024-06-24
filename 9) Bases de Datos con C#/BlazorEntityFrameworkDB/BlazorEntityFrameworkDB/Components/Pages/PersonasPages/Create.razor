@@ -1,0 +1,58 @@
+﻿@page "/personas/create"
+@inject BlazorEntityFrameworkDB.Data.PersonasContext DB
+@using BlazorEntityFrameworkDB.Models
+@inject NavigationManager NavigationManager
+
+<PageTitle>Create</PageTitle>
+
+<h1>Create</h1>
+
+<h4>Personas</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <EditForm method="post" Model="Personas" OnValidSubmit="AddPersonas" FormName="create" Enhance>
+            <DataAnnotationsValidator />
+            <ValidationSummary class="text-danger" />
+            <div class="mb-3">
+                <label for="nombre" class="form-label">Nombre:</label> 
+                <InputText id="nombre" @bind-Value="Personas.Nombre" class="form-control" /> 
+                <ValidationMessage For="() => Personas.Nombre" class="text-danger" /> 
+            </div>        
+            <div class="mb-3">
+                <label for="telefono" class="form-label">Telefono:</label> 
+                <InputText id="telefono" @bind-Value="Personas.Telefono" class="form-control" /> 
+                <ValidationMessage For="() => Personas.Telefono" class="text-danger" /> 
+            </div>        
+            <div class="mb-3">
+                <label for="direccion" class="form-label">Direccion:</label> 
+                <InputText id="direccion" @bind-Value="Personas.Direccion" class="form-control" /> 
+                <ValidationMessage For="() => Personas.Direccion" class="text-danger" /> 
+            </div>        
+            <div class="mb-3">
+                <label for="correo" class="form-label">Correo:</label> 
+                <InputText id="correo" @bind-Value="Personas.Correo" class="form-control" /> 
+                <ValidationMessage For="() => Personas.Correo" class="text-danger" /> 
+            </div>        
+            <button type="submit" class="btn btn-primary">Create</button>
+        </EditForm>
+    </div>
+</div>
+
+<div>
+    <a href="/personas">Back to List</a>
+</div>
+
+@code {
+
+    [SupplyParameterFromForm]
+    public Personas Personas { get; set; } = new();
+
+    // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD
+    public async Task AddPersonas()
+    {
+        DB.Personas.Add(Personas);
+        await DB.SaveChangesAsync();
+        NavigationManager.NavigateTo("/personas");
+    }
+}

@@ -1,0 +1,51 @@
+﻿@page "/personas/details"
+@inject BlazorEntityFrameworkDB.Data.PersonasContext DB
+@using BlazorEntityFrameworkDB.Models
+@inject NavigationManager NavigationManager
+@using Microsoft.EntityFrameworkCore
+
+<PageTitle>Details</PageTitle>
+
+<h1>Details</h1>
+
+<div>
+    <h4>Personas</h4>
+    <hr />
+    @if (personas is null)
+    {
+        <p><em>Loading...</em></p>
+    }
+    else {
+        <dl class="row">
+            <dt class="col-sm-2">Nombre</dt>
+            <dd class="col-sm-10">@personas.Nombre</dd>
+            <dt class="col-sm-2">Telefono</dt>
+            <dd class="col-sm-10">@personas.Telefono</dd>
+            <dt class="col-sm-2">Direccion</dt>
+            <dd class="col-sm-10">@personas.Direccion</dd>
+            <dt class="col-sm-2">Correo</dt>
+            <dd class="col-sm-10">@personas.Correo</dd>
+        </dl>
+        <div>
+            <a href="@($"/personas/edit?cedula={personas.Cedula}")">Edit</a> |
+            <a href="@($"/personas")">Back to List</a>
+        </div>
+    }
+</div>
+
+@code {
+    Personas? personas;
+
+    [SupplyParameterFromQuery]
+    public string Cedula { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        personas = await DB.Personas.FirstOrDefaultAsync(m => m.Cedula == Cedula);
+
+        if (personas is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+}

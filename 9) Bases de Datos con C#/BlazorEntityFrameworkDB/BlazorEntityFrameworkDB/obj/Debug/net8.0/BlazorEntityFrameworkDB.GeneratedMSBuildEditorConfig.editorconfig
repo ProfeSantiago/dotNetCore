@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorEntityFrameworkDB
+build_property.RootNamespace = BlazorEntityFrameworkDB
+build_property.ProjectDir = D:\ProfeSantiago\dotNetCore\9) Bases de Datos con C#\BlazorEntityFrameworkDB\BlazorEntityFrameworkDB\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ProfeSantiago\dotNetCore\9) Bases de Datos con C#\BlazorEntityFrameworkDB\BlazorEntityFrameworkDB
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ProfeSantiago/dotNetCore/9) Bases de Datos con C\#/BlazorEntityFrameworkDB/BlazorEntityFrameworkDB/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProfeSantiago/dotNetCore/9) Bases de Datos con C\#/BlazorEntityFrameworkDB/BlazorEntityFrameworkDB/Components/Component.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProfeSantiago/dotNetCore/9) Bases de Datos con C\#/BlazorEntityFrameworkDB/BlazorEntityFrameworkDB/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProfeSantiago/dotNetCore/9) Bases de Datos con C\#/BlazorEntityFrameworkDB/BlazorEntityFrameworkDB/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProfeSantiago/dotNetCore/9) Bases de Datos con C\#/BlazorEntityFrameworkDB/BlazorEntityFrameworkDB/Components/Pages/PersonasPages/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXJzb25hc1BhZ2VzXENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProfeSantiago/dotNetCore/9) Bases de Datos con C\#/BlazorEntityFrameworkDB/BlazorEntityFrameworkDB/Components/Pages/PersonasPages/Delete.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXJzb25hc1BhZ2VzXERlbGV0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProfeSantiago/dotNetCore/9) Bases de Datos con C\#/BlazorEntityFrameworkDB/BlazorEntityFrameworkDB/Components/Pages/PersonasPages/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXJzb25hc1BhZ2VzXERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProfeSantiago/dotNetCore/9) Bases de Datos con C\#/BlazorEntityFrameworkDB/BlazorEntityFrameworkDB/Components/Pages/PersonasPages/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXJzb25hc1BhZ2VzXEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProfeSantiago/dotNetCore/9) Bases de Datos con C\#/BlazorEntityFrameworkDB/BlazorEntityFrameworkDB/Components/Pages/PersonasPages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXJzb25hc1BhZ2VzXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProfeSantiago/dotNetCore/9) Bases de Datos con C\#/BlazorEntityFrameworkDB/BlazorEntityFrameworkDB/Components/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProfeSantiago/dotNetCore/9) Bases de Datos con C\#/BlazorEntityFrameworkDB/BlazorEntityFrameworkDB/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProfeSantiago/dotNetCore/9) Bases de Datos con C\#/BlazorEntityFrameworkDB/BlazorEntityFrameworkDB/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProfeSantiago/dotNetCore/9) Bases de Datos con C\#/BlazorEntityFrameworkDB/BlazorEntityFrameworkDB/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-7rcfl6o5ti
+
+[D:/ProfeSantiago/dotNetCore/9) Bases de Datos con C\#/BlazorEntityFrameworkDB/BlazorEntityFrameworkDB/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-001iwv46ub

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCEntityFrameworkDB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+476addae363247b4b563043c86b0d816b67ba77e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79c9b353a640f668dcb90d0f55e004e7bf183155")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCEntityFrameworkDB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCEntityFrameworkDB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

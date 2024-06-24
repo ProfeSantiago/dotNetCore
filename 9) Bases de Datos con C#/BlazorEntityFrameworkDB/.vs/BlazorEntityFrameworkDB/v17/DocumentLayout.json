@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProfeSantiago\\dotNetCore\\9) Bases de Datos con C#\\BlazorEntityFrameworkDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A7D488-24DE-4803-8361-0E6FB92B5D0E}|BlazorEntityFrameworkDB\\BlazorEntityFrameworkDB.csproj|d:\\profesantiago\\dotnetcore\\9) bases de datos con c#\\blazorentityframeworkdb\\blazorentityframeworkdb\\components\\pages\\personaspages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1A7D488-24DE-4803-8361-0E6FB92B5D0E}|BlazorEntityFrameworkDB\\BlazorEntityFrameworkDB.csproj|solutionrelative:blazorentityframeworkdb\\components\\pages\\personaspages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\9) Bases de Datos con C#\\BlazorEntityFrameworkDB\\BlazorEntityFrameworkDB\\Components\\Pages\\PersonasPages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorEntityFrameworkDB\\Components\\Pages\\PersonasPages\\Index.razor",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\9) Bases de Datos con C#\\BlazorEntityFrameworkDB\\BlazorEntityFrameworkDB\\Components\\Pages\\PersonasPages\\Index.razor",
+              "RelativeToolTip": "BlazorEntityFrameworkDB\\Components\\Pages\\PersonasPages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:53:42.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

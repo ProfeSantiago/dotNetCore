@@ -1,0 +1,101 @@
+﻿@page "/Personas/edit"
+@inject BlazorEntityFrameworkDB.Data.PersonasContext DB
+@using BlazorEntityFrameworkDB.Models
+@inject NavigationManager NavigationManager
+@using Microsoft.EntityFrameworkCore
+
+<PageTitle>Edit</PageTitle>
+
+<h1>Edit</h1>
+
+<h4>Personas</h4>
+<hr />
+@if (Personas is null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <div class="row">
+        <div class="col-md-4">
+            <EditForm method="post" Model="Personas" OnValidSubmit="UpdatePersonas" FormName="edit" Enhance>
+                <DataAnnotationsValidator />
+                <ValidationSummary />
+                <input type="hidden" name="Personas.Cedula" value="@Personas.Cedula" />
+                <div class="mb-3">
+                    <label for="nombre" class="form-label">Nombre:</label>
+                    <InputText id="nombre" @bind-Value="Personas.Nombre" class="form-control" />
+                    <ValidationMessage For="() => Personas.Nombre" class="text-danger" />
+                </div>
+                <div class="mb-3">
+                    <label for="telefono" class="form-label">Telefono:</label>
+                    <InputText id="telefono" @bind-Value="Personas.Telefono" class="form-control" />
+                    <ValidationMessage For="() => Personas.Telefono" class="text-danger" />
+                </div>
+                <div class="mb-3">
+                    <label for="direccion" class="form-label">Direccion:</label>
+                    <InputText id="direccion" @bind-Value="Personas.Direccion" class="form-control" />
+                    <ValidationMessage For="() => Personas.Direccion" class="text-danger" />
+                </div>
+                <div class="mb-3">
+                    <label for="correo" class="form-label">Correo:</label>
+                    <InputText id="correo" @bind-Value="Personas.Correo" class="form-control" />
+                    <ValidationMessage For="() => Personas.Correo" class="text-danger" />
+                </div>
+                <button type="submit" class="btn btn-primary">Save</button>
+            </EditForm>
+        </div>
+    </div>
+}
+
+<div>
+    <a href="/personas">Back to List</a>
+</div>
+
+@code {
+    [SupplyParameterFromQuery]
+    public string Cedula { get; set; }
+
+    [SupplyParameterFromForm]
+    public Personas? Personas { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Personas ??= await DB.Personas.FirstOrDefaultAsync(m => m.Cedula == Cedula);
+
+        if (Personas is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+
+    // To protect from overposting attacks, enable the specific properties you want to bind to.
+    // For more details, see https://aka.ms/RazorPagesCRUD.
+    public async Task UpdatePersonas()
+    {
+        DB.Attach(Personas!).State = EntityState.Modified;
+
+        try
+        {
+            await DB.SaveChangesAsync();
+        }
+        catch (DbUpdateConcurrencyException)
+        {
+            if (!PersonasExists(Personas!.Cedula))
+            {
+                NavigationManager.NavigateTo("notfound");
+            }
+            else
+            {
+                throw;
+            }
+        }
+
+        NavigationManager.NavigateTo("/personas");
+    }
+
+    bool PersonasExists(string cedula)
+    {
+        return DB.Personas.Any(e => e.Cedula == cedula);
+    }
+}
