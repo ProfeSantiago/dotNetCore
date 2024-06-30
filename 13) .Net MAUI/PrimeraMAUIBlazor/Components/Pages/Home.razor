@@ -5,8 +5,12 @@
 <p>
     Digite su nombre:
     <input placeholder="Escriba su nombre" @bind="nombreDigitado" />
-    <button class="bth btn-primary" @onclick="holaMundo"> Saludar </button><br />
+    <button class="bth btn-primary" @onclick="holaMundo"> Saludar </button>
     <br /><br />
+    Su nombre es:
+    <input type="text" @bind="nombreDigitado" />
+    <br /><br />
+    <hr />
     <button class="bth btn-primary" @onclick="revisaConexion"> Revisar si hay Internet </button>
 </p>
 

@@ -29,25 +29,25 @@
     <AppXManifest Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-06-30T20:44:58.605</Modified>
+      <Modified>2024-06-30T21:01:05.168</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-06-30T16:46:34.007</Modified>
+      <Modified>2024-06-30T20:54:13.080</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PrimeraMAUIBlazor.runtimeconfig.json">
       <PackagePath>PrimeraMAUIBlazor.runtimeconfig.json</PackagePath>
-      <Modified>2024-06-26T02:51:35.258</Modified>
+      <Modified>2024-06-30T20:54:12.593</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PrimeraMAUIBlazor.dll">
       <PackagePath>PrimeraMAUIBlazor.dll</PackagePath>
-      <Modified>2024-06-30T20:44:58.301</Modified>
+      <Modified>2024-06-30T21:01:04.696</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PrimeraMAUIBlazor.exe</PackagePath>
-      <Modified>2024-06-30T20:44:58.306</Modified>
+      <Modified>2024-06-30T21:01:04.712</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -73,237 +73,213 @@
       <PackagePath>wwwroot\index.html</PackagePath>
       <Modified>2024-06-21T02:50:48.605</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
-      <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-06-26T02:51:32.593</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
-      <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-06-26T02:51:32.609</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
-      <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-06-26T02:51:32.637</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
-      <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-06-26T02:51:32.678</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
-      <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-06-26T02:51:32.826</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
-      <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2024-06-21T02:50:48.589</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-06-26T02:51:34.611</Modified>
+      <Modified>2024-06-30T20:54:10.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.605</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.605</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.605</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.605</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.605</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.609</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.608</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.608</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.608</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.608</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.609</Modified>
+      <Modified>2024-06-30T20:54:10.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.609</Modified>
+      <Modified>2024-06-30T20:54:10.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.609</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.609</Modified>
+      <Modified>2024-06-30T20:54:10.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.609</Modified>
+      <Modified>2024-06-30T20:54:10.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.611</Modified>
+      <Modified>2024-06-30T20:54:10.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.611</Modified>
+      <Modified>2024-06-30T20:54:10.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.610</Modified>
+      <Modified>2024-06-30T20:54:10.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.610</Modified>
+      <Modified>2024-06-30T20:54:10.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.610</Modified>
+      <Modified>2024-06-30T20:54:10.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.610</Modified>
+      <Modified>2024-06-30T20:54:10.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.610</Modified>
+      <Modified>2024-06-30T20:54:10.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.609</Modified>
+      <Modified>2024-06-30T20:54:10.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.609</Modified>
+      <Modified>2024-06-30T20:54:10.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.609</Modified>
+      <Modified>2024-06-30T20:54:10.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.607</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.607</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.606</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.606</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.606</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.607</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.607</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.607</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.607</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.607</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.608</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.608</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.608</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.608</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.608</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.606</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.606</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.606</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.606</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.605</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.612</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.611</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.611</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.611</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-06-26T02:51:34.611</Modified>
+      <Modified>2024-06-30T20:54:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PrimeraMAUIBlazor.deps.json">
       <PackagePath>PrimeraMAUIBlazor.deps.json</PackagePath>
-      <Modified>2024-06-30T16:46:33.738</Modified>
+      <Modified>2024-06-30T20:54:12.227</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\santi\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -667,11 +643,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\PrimeraMAUIBlazor.styles.css">
       <PackagePath>wwwroot\PrimeraMAUIBlazor.styles.css</PackagePath>
-      <Modified>2024-06-26T02:51:24.972</Modified>
+      <Modified>2024-06-30T20:51:48.930</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\PrimeraMAUIBlazor.bundle.scp.css">
       <PackagePath>wwwroot\PrimeraMAUIBlazor.bundle.scp.css</PackagePath>
-      <Modified>2024-06-26T02:51:24.973</Modified>
+      <Modified>2024-06-30T20:51:48.932</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ProfeSantiago\dotNetCore\13%29 .Net MAUI\PrimeraMAUIBlazor\Components\Layout\MainLayout.razor.css">
       <PackagePath>Components\Layout\MainLayout.razor.css</PackagePath>
