@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor \u0026 MVC\\BlazorIntro\\miBlazorApp\\",
+  "WorkspaceRootPath": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor \u0026 MVC\\Blazor\\BlazorIntro\\miBlazorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E589A5E-4816-4D36-A5BA-0DC90615088E}|miBlazorApp\\miBlazorApp.csproj|d:\\profesantiago\\dotnetcore\\11) asp, razor, blazor \u0026 mvc\\blazorintro\\miblazorapp\\miblazorapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4E589A5E-4816-4D36-A5BA-0DC90615088E}|miBlazorApp\\miBlazorApp.csproj|d:\\profesantiago\\dotnetcore\\11) asp, razor, blazor \u0026 mvc\\blazor\\blazorintro\\miblazorapp\\miblazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E589A5E-4816-4D36-A5BA-0DC90615088E}|miBlazorApp\\miBlazorApp.csproj|solutionrelative:miblazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E589A5E-4816-4D36-A5BA-0DC90615088E}|miBlazorApp\\miBlazorApp.csproj|d:\\profesantiago\\dotnetcore\\11) asp, razor, blazor \u0026 mvc\\blazor\\blazorintro\\miblazorapp\\miblazorapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4E589A5E-4816-4D36-A5BA-0DC90615088E}|miBlazorApp\\miBlazorApp.csproj|solutionrelative:miblazorapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -19,10 +23,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor \u0026 MVC\\Blazor\\BlazorIntro\\miBlazorApp\\miBlazorApp\\Program.cs",
+              "RelativeDocumentMoniker": "miBlazorApp\\Program.cs",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor \u0026 MVC\\Blazor\\BlazorIntro\\miBlazorApp\\miBlazorApp\\Program.cs",
+              "RelativeToolTip": "miBlazorApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:29:32.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor \u0026 MVC\\BlazorIntro\\miBlazorApp\\miBlazorApp\\Components\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor \u0026 MVC\\Blazor\\BlazorIntro\\miBlazorApp\\miBlazorApp\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "miBlazorApp\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor \u0026 MVC\\BlazorIntro\\miBlazorApp\\miBlazorApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor \u0026 MVC\\Blazor\\BlazorIntro\\miBlazorApp\\miBlazorApp\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "miBlazorApp\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFSQLiteVSCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ce6d60b389d6286b64006196d76d06508d3a8fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11f265cf33880361a6b8d6db9decfb64231d9d22")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFSQLiteVSCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFSQLiteVSCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

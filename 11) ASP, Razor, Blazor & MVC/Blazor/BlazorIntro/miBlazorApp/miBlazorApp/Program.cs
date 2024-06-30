@@ -1,4 +1,3 @@
-using miBlazorApp.Client.Pages;
 using miBlazorApp.Components;
 
 var builder = WebApplication.CreateBuilder(args);

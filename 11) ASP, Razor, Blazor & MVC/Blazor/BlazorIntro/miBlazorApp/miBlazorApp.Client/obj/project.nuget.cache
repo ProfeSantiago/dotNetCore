@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i85B0jxZLNE=",
+  "dgSpecHash": "cviFkmCeKfc=",
   "success": true,
-  "projectFilePath": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\BlazorIntro\\miBlazorApp\\miBlazorApp.Client\\miBlazorApp.Client.csproj",
+  "projectFilePath": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\Blazor\\BlazorIntro\\miBlazorApp\\miBlazorApp.Client\\miBlazorApp.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santi\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.5\\microsoft.aspnetcore.authorization.8.0.5.nupkg.sha512",
     "C:\\Users\\santi\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.5\\microsoft.aspnetcore.components.8.0.5.nupkg.sha512",
@@ -27,7 +27,7 @@
     "C:\\Users\\santi\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\santi\\.nuget\\packages\\microsoft.jsinterop\\8.0.5\\microsoft.jsinterop.8.0.5.nupkg.sha512",
     "C:\\Users\\santi\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.5\\microsoft.jsinterop.webassembly.8.0.5.nupkg.sha512",
-    "C:\\Users\\santi\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\santi\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.6\\microsoft.net.illink.tasks.8.0.6.nupkg.sha512",
     "C:\\Users\\santi\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.5\\microsoft.net.sdk.webassembly.pack.8.0.5.nupkg.sha512",
     "C:\\Users\\santi\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\santi\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",

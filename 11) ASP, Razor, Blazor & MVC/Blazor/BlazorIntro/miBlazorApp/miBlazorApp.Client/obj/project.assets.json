@@ -416,7 +416,7 @@
           }
         }
       },
-      "Microsoft.NET.ILLink.Tasks/8.0.5": {
+      "Microsoft.NET.ILLink.Tasks/8.0.6": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
@@ -902,7 +902,7 @@
           }
         }
       },
-      "Microsoft.NET.ILLink.Tasks/8.0.5": {
+      "Microsoft.NET.ILLink.Tasks/8.0.6": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
@@ -1612,10 +1612,10 @@
         "microsoft.jsinterop.webassembly.nuspec"
       ]
     },
-    "Microsoft.NET.ILLink.Tasks/8.0.5": {
-      "sha512": "4ISW1Ndgz86FkIbu5rVlMqhhtojdy5rUlxC/N+9kPh9qbYcvHiCvYbHKzAPVIx9OPYIjT9trXt7JI42Y5Ukq6A==",
+    "Microsoft.NET.ILLink.Tasks/8.0.6": {
+      "sha512": "E+lDylsTeP4ZiDmnEkiJ5wobnGaIJzFhOgZppznJCb69UZgbh6G3cfv1pnLDLLBx6JAgl0kAlnINDeT3uCuczQ==",
       "type": "package",
-      "path": "microsoft.net.illink.tasks/8.0.5",
+      "path": "microsoft.net.illink.tasks/8.0.6",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -1629,7 +1629,7 @@
         "build/Microsoft.NET.ILLink.Analyzers.props",
         "build/Microsoft.NET.ILLink.Tasks.props",
         "build/Microsoft.NET.ILLink.targets",
-        "microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+        "microsoft.net.illink.tasks.8.0.6.nupkg.sha512",
         "microsoft.net.illink.tasks.nuspec",
         "tools/net472/ILLink.Tasks.dll",
         "tools/net472/ILLink.Tasks.dll.config",
@@ -1874,7 +1874,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.AspNetCore.Components.WebAssembly >= 8.0.5",
-      "Microsoft.NET.ILLink.Tasks >= 8.0.5",
+      "Microsoft.NET.ILLink.Tasks >= 8.0.6",
       "Microsoft.NET.Sdk.WebAssembly.Pack >= 8.0.5"
     ]
   },
@@ -1885,11 +1885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\BlazorIntro\\miBlazorApp\\miBlazorApp.Client\\miBlazorApp.Client.csproj",
+      "projectUniqueName": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\Blazor\\BlazorIntro\\miBlazorApp\\miBlazorApp.Client\\miBlazorApp.Client.csproj",
       "projectName": "miBlazorApp.Client",
-      "projectPath": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\BlazorIntro\\miBlazorApp\\miBlazorApp.Client\\miBlazorApp.Client.csproj",
+      "projectPath": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\Blazor\\BlazorIntro\\miBlazorApp\\miBlazorApp.Client\\miBlazorApp.Client.csproj",
       "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
-      "outputPath": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\BlazorIntro\\miBlazorApp\\miBlazorApp.Client\\obj\\",
+      "outputPath": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\Blazor\\BlazorIntro\\miBlazorApp\\miBlazorApp.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1935,7 +1935,7 @@
           "Microsoft.NET.ILLink.Tasks": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[8.0.5, )",
+            "version": "[8.0.6, )",
             "autoReferenced": true
           },
           "Microsoft.NET.Sdk.WebAssembly.Pack": {
@@ -1967,7 +1967,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

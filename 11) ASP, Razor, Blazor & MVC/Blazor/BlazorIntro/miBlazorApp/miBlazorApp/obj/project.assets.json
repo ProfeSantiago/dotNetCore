@@ -1335,11 +1335,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\BlazorIntro\\miBlazorApp\\miBlazorApp\\miBlazorApp.csproj",
+      "projectUniqueName": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\Blazor\\BlazorIntro\\miBlazorApp\\miBlazorApp\\miBlazorApp.csproj",
       "projectName": "miBlazorApp",
-      "projectPath": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\BlazorIntro\\miBlazorApp\\miBlazorApp\\miBlazorApp.csproj",
+      "projectPath": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\Blazor\\BlazorIntro\\miBlazorApp\\miBlazorApp\\miBlazorApp.csproj",
       "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
-      "outputPath": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\BlazorIntro\\miBlazorApp\\miBlazorApp\\obj\\",
+      "outputPath": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\Blazor\\BlazorIntro\\miBlazorApp\\miBlazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1361,8 +1361,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\BlazorIntro\\miBlazorApp\\miBlazorApp.Client\\miBlazorApp.Client.csproj": {
-              "projectPath": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\BlazorIntro\\miBlazorApp\\miBlazorApp.Client\\miBlazorApp.Client.csproj"
+            "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\Blazor\\BlazorIntro\\miBlazorApp\\miBlazorApp.Client\\miBlazorApp.Client.csproj": {
+              "projectPath": "D:\\ProfeSantiago\\dotNetCore\\11) ASP, Razor, Blazor & MVC\\Blazor\\BlazorIntro\\miBlazorApp\\miBlazorApp.Client\\miBlazorApp.Client.csproj"
             }
           }
         }
@@ -1406,7 +1406,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

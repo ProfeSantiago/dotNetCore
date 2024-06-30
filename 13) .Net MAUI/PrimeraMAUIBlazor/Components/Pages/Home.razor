@@ -1,19 +1,22 @@
 ﻿@page "/"
 
-<h1>Hello, world!</h1>
+<h1>Primer Hola Mundo</h1>
 
-Welcome to your new app.
 <p>
-    <button class="bth btn-primary" @onclick="holaMundo"> Hola Mundo </button>
-    <br />
+    Digite su nombre:
+    <input placeholder="Escriba su nombre" @bind="nombreDigitado" />
+    <button class="bth btn-primary" @onclick="holaMundo"> Saludar </button><br />
+    <br /><br />
     <button class="bth btn-primary" @onclick="revisaConexion"> Revisar si hay Internet </button>
 </p>
 
 @code {
+    private string? nombreDigitado;
 
     private async void holaMundo()
     {
-        await Application.Current.MainPage.DisplayAlert("Saludo", "Hola Mundo", "Aceptar");
+        await Application.Current.MainPage.DisplayAlert("Saludo", "Hola " + nombreDigitado, "Aceptar");
+        nombreDigitado = "";
     }
 
     private async void revisaConexion()
